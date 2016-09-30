@@ -8,9 +8,9 @@
 感谢racaljk 、 laodcn 、vokins提供者。
 更新自博客“手机发烧友”：http://htcui.com/4938.html
 各大神的github源码：
-vokins：https://github.com/vokins 、
-laodcn：https://github.com/laodcn 、
-racaljk：https://github.com/racaljk 
+ - vokins：https://github.com/vokins 、
+ - laodcn：https://github.com/laodcn 、
+ - racaljk：https://github.com/racaljk 
                    
 ***
 About the getHosts.exe / getHosts.vbs:
