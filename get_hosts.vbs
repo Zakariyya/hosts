@@ -1,3 +1,4 @@
+msgbox"Running now, Please wait..."
 iLocal=LCase("C:\Windows\System32\drivers\etc\hosts") 
 iRemote=LCase("https://raw.githubusercontent.com/Zakariyya/yami_hosts/master/hosts_plus") 
 
