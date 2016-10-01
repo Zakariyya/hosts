@@ -14,7 +14,7 @@
 ***
 About the getHosts.exe / getHosts.vbs:
  - This exe changed from the getHosts.vbs(a script) in the Vbs_To_Exe_(x64).exe.
- - It is run on Windows7
+ - It is run on Windows
  - Double-click to use
 
                    
