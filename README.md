@@ -12,10 +12,11 @@
             
 更新自博客“手机发烧友”：http://htcui.com/4938.html            
 ***
-About the getHosts.exe / getHosts.vbs:
+About the get_hosts.exe / get_hosts.vbs:
  - This exe changed from the getHosts.vbs(a script) in the Vbs_To_Exe_(x64).exe.
  - It is run on Windows
  - Double-click to use
 
+>get_hosts.exe 下载地址：https://github.com/Zakariyya/yami_hosts/raw/master/get_hosts%20.exe 
                    
                   
