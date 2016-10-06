@@ -1,13 +1,13 @@
-' - 选择： 
-'				-hosts --- hosts_plus  ---- nothing
-'	   		   |           |
-'          OK        选择
-'	   		 							 |
-'			  			___________________
-'		  				|				 |        |
-'	  			 hosts   reset   nothing
-'	   					|			   |
-' 					 OK       OK
+' - ：
+'         -hosts --- hosts_plus  ---- nothing
+'            |         |
+'            OK      choose
+'                      |
+'             _________|_________
+'             |        |        |
+'           hosts   reset   nothing
+'             |        |
+'            OK        OK
 
 
 var=MsgBox ("是   ：  获取标准 hosts 并替换 ；"+vbCrlf+vbCrlf+"否   ：  获取 hosts （屏蔽广告版）并替换；"+vbCrlf+vbCrlf+"取消：  不做任何改变；"+vbCrlf+"",vbYesNoCancel  + vbDefaultButton3 ,"请选择") 'vbMsgBoxHelpButton （help ）,vbExclamation(图标)
