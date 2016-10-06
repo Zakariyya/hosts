@@ -18,5 +18,11 @@ About the get_hosts.exe / get_hosts.vbs:
  - Double-click to use
 
 >get_hosts.exe 下载地址：https://github.com/Zakariyya/yami_hosts/raw/master/get_hosts%20.exe 
-                   
+
+update
+- finsh get_hosts2.exe
+ - add : you can choose get the general hosts or the hosts_plus or reset your hosts file as you like(2016-10-05)
+ - ps : the hosts_plus many cause not to normal Internet access.(2016-10-05)
+ 
+>get_hosts2.exe 下载地址：https://raw.githubusercontent.com/Zakariyya/yami_hosts/master/get_hosts_2.0.exe
                   
