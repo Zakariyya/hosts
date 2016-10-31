@@ -14,6 +14,7 @@ update from the Blog：
  - http://htcui.com/4938.html
  - http://igge.gq/265.html
  - http://51.ruyo.net/2016-hosts/
+ - http://51.ruyo.net/2016-hosts/ (about youtube)
  - http://91ksj.com/networkshare/983.html
 
 ***
