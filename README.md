@@ -15,6 +15,7 @@ update from the Blog：
  - http://igge.gq/265.html
  - http://51.ruyo.net/2016-hosts/
  - http://91ksj.com/networkshare/983.html
+
 ***
 About the get_hosts.exe / get_hosts.vbs:
  - This exe changed from the getHosts.vbs(a script) in the Vbs_To_Exe_(x64).exe.
