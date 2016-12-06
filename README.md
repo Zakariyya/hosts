@@ -16,6 +16,7 @@ update from the Blog：
  - http://51.ruyo.net/2016-hosts/
  - http://51.ruyo.net/2016-hosts/ (about youtube)
  - http://91ksj.com/networkshare/983.html
+ - http://idannywu.com/hosts/.html
 
 ***
 About the get_hosts.exe / get_hosts.vbs:
