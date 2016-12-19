@@ -1,5 +1,5 @@
 ##################################################
-# Last updated: 2016-12-09
+# Last updated: 2016-12-17
 ##################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -108,9 +108,12 @@
 110.4.24.178 dropbox.com
 110.4.24.178 m.dropbox.com
 110.4.24.178 www.v.dropbox.com
+110.4.24.178	dl-debug.dropbox.com
 110.4.24.178 www.dropbox.com
+52.85.76.60	linux.dropbox.com
 108.160.172.225 d.dropbox.com
 108.160.172.225 d.v.dropbox.com
+162.125.18.132	dl-doc.dropbox.com
 108.160.172.225 api-d.dropbox.com
 108.160.172.225 api.dropboxapi.com
 108.160.172.225 api.dropbox.com
@@ -118,6 +121,7 @@
 108.160.172.225 api-notify.dropbox.com
 108.160.172.225 www.dropboxstatic.com
 104.16.100.29	cfl.dropboxstatic.com
+108.160.172.229	dbxlocal.dropboxstatic.com
 199.47.217.36	api-content.dropbox.com
 199.47.217.36	api-content-photos.dropbox.com
 108.160.172.207	photos.dropbox.com
@@ -129,10 +133,9 @@
 54.230.214.100	cf.dropboxstatic.com
 54.192.108.33	client-cf.dropbox.com
 45.58.69.38	dl.dropbox.com
-45.58.74.133 dl-web.dropbox.com
+45.58.70.5	dl-web.dropbox.com
 45.58.69.37	dl.dropboxusercontent.com
 162.125.18.2	photos-1.dropbox.com
-162.125.18.2 photos-2.dropbox.com
 162.125.18.2	photos-2.dropbox.com
 162.125.18.2	photos-3.dropbox.com
 162.125.18.2	photos-4.dropbox.com
@@ -148,9 +151,7 @@
 108.160.172.236	client-web.dropbox.com
 108.160.172.236	client.dropbox.com
 108.160.172.236	client.v.dropbox.com
-110.4.24.178 dl-debug.dropbox.com
-110.4.24.178 log.getdropbox.com
-108.160.172.229 dbxlocal.dropboxstatic.com
+108.160.172.227	log.getdropbox.com
 # Dropbox End
 
 # DuckDuckGo Start
@@ -341,12 +342,7 @@
 
 # Github start
 
-151.101.76.249 github.global.ssl.fastly.net
-151.101.100.133 assets-cdn.github.com
-151.101.100.133 raw.githubusercontent.com
-151.101.48.133 raw.githubusercontent.com
-192.30.253.118 gist.github.com
-192.30.253.119 gist.github.com
+192.30.253.113	gist.github.com
 
 # Github end
 
@@ -955,6 +951,8 @@
 110.4.24.178	play.googleapis.com
 110.4.24.178	plus.googleapis.com
 110.4.24.178	redirector-bigcache.googleapis.com
+110.4.24.178	youtube.googleapis.com
+110.4.24.178	youtubei.googleapis.com
 110.4.24.178	mt0.googleapis.com
 110.4.24.178	mt1.googleapis.com
 110.4.24.178	mt2.googleapis.com
@@ -2383,8 +2381,6 @@
 110.4.24.178	remoting-pa.googleapis.com
 110.4.24.178	clientmetrics-pa.googleapis.com
 110.4.24.178	contacts.google.com
-
-
 # Google:others Start
 110.4.24.178	google.ad
 110.4.24.178	google.ae
@@ -2784,7 +2780,6 @@
 64.233.191.121	androidexperiments.com
 64.233.188.121	www.tensorflow.org
 # Google:others End
-
 # Gmail SMTP/POP/IMAP Start
 64.233.188.14	gmr-smtp-in.l.google.com
 64.233.188.16	googlemail-imap.l.google.com
@@ -2803,7 +2798,6 @@
 64.233.188.109	pop.gmail.com
 64.233.188.109	gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
-
 # Google:stun Server Start
 64.233.177.127	stun.l.google.com
 64.233.177.127	alt1.stun.l.google.com
@@ -2812,14 +2806,12 @@
 64.233.177.127	alt4.stun.l.google.com
 64.233.177.127	alt5.stun.l.google.com
 # Google:stun Server End
-
 # Google:Gtalk	Start
 64.233.188.125	talk.google.com
 64.233.188.125	talk.l.google.com
 64.233.188.125	talkx.l.google.com
 64.233.188.125	alt1.talk.l.google.com
 # Google:Gtalk	End
-
 # Google:ghs Start
 64.233.188.121	ghs.google.com
 64.233.188.121	ghs46.google.com
@@ -2854,7 +2846,6 @@
 64.233.188.121	news.dartlang.org
 64.233.188.121	dartpad.dartlang.org
 # Google:ghs End
-
 # Google:gcm Start
 64.233.189.188 mobile-gtalk.l.google.com
 64.233.189.188 mtalk.google.com
@@ -6565,16 +6556,20 @@
 110.4.24.178	redirector.gvt1.com
 110.4.24.178	redirector.c.youtube.com
 110.4.24.178	uploads.stage.gdata.youtube.com
+
 110.4.24.178	youtube.googleblog.com
 110.4.24.178	youtube.googleapis.com
 110.4.24.178	youtubei.googleapis.com
 110.4.24.178	youtube-ui.l.google.com
 110.4.24.178	youtube.com
+
 110.4.24.178	www.youtube.com
 110.4.24.178	au.youtube.com
 110.4.24.178	ca.youtube.com
+
 110.4.24.178	de.youtube.com
 110.4.24.178	jp.youtube.com
+
 110.4.24.178	ru.youtube.com
 110.4.24.178	uk.youtube.com
 110.4.24.178	tw.youtube.com
@@ -6594,6 +6589,7 @@
 110.4.24.178	i.ytimg.com
 110.4.24.178	i1.ytimg.com
 110.4.24.178	i2.ytimg.com
+
 110.4.24.178	i3.ytimg.com
 110.4.24.178	i4.ytimg.com
 110.4.24.178	i9.ytimg.com
@@ -6601,6 +6597,7 @@
 110.4.24.178	onetoday.google.com
 
 # Youtube End
+
 
 # Google End
 
@@ -7063,16 +7060,61 @@
 # nytimes for mobile End
 
 # OneDrive Start
-23.44.152.70 auth.gfx.ms
-131.253.61.66 login.live.com
-204.79.197.217 onedrive.live.com
-23.76.75.7 p.sfx.ms
-204.79.197.213 nhuhga.dm2301.livefilestore.com
-64.4.16.215 account.live.com
-64.4.16.15 people.live.com
-64.4.16.15 profile.live.com
-157.55.109.230 skyapi.onedrive.live.com
-134.170.111.176 storage.live.com
+204.79.197.217	onedrive.live.com
+204.79.197.217	skyweb.skyprod.akadns.net
+204.79.197.217	webedgegeo.skyprod.akadns.net
+204.79.197.217	account.live.com
+131.253.61.98	login.live.com
+131.253.61.97	api.login.live.com
+207.46.101.29	ssw.live.com
+207.46.101.29	ssw-df.live.com
+#204.79.197.213	docs.live.net
+204.79.197.217	mail.live.com
+204.79.197.217	people.live.com
+204.79.197.217	profile.live.com
+204.79.197.213	api.onedrive.com
+204.79.197.213	storage.live.com
+134.170.108.24	skyapi.onedrive.live.com
+134.170.105.24	skyapi.live.net
+204.79.197.217	skyapi.policies.live.net
+134.170.108.24	apis.live.net
+134.170.108.24	l.live.net
+#134.170.108.24	d.docs.live.net
+23.44.152.70	auth.gfx.ms
+#23.212.129.202	p.sfx.ms
+65.55.52.23	directory.services.live.com
+204.79.197.213	bn1306.storage.skyprod.akadns.net
+204.79.197.213	asdzyw-bn1306.files.1drv.com
+204.79.197.213	fqxapq-bn1306.files.1drv.com
+204.79.197.213	hvukpa-bn1306.files.1drv.com
+204.79.197.213	ivvbsg-bn1306.files.1drv.com
+204.79.197.213	public-bn1306.files.1drv.com
+204.79.197.213	svdteg-bn1306.files.1drv.com
+204.79.197.213	public-dm2306.files.1drv.com
+204.79.197.213	nprmzg-bn1306.files.1drv.com
+204.79.197.213	slavvw-bn1306.files.1drv.com
+204.79.197.213	smnyag-bn1306.files.1drv.com
+204.79.197.213	svdteg-bn1306.files.1drv.com
+204.79.197.213	rdtikq-bn1306.files.1drv.com
+204.79.197.213	oqnmtq-bn1306.files.1drv.com
+204.79.197.213	ifvbsg-bn1306.files.1drv.com
+204.79.197.213	rtuqta-bn1306.files.1drv.com
+204.79.197.213	48srbg-bn1306.files.1drv.com
+204.79.197.213	ppssca-bn1306.files.1drv.com
+204.79.197.213	qii5sg-bn1306.files.1drv.com
+204.79.197.213	r1abtq-bn1306.files.1drv.com
+204.79.197.213	dm2303files.storage.live.com
+204.79.197.213	bn1306files.storage.live.com
+204.79.197.213	nhuhga.dm2301.livefilestore.com
+204.79.197.213	public.dm2301.livefilestore.com
+204.79.197.213	public.dm2302.livefilestore.com
+204.79.197.213	public.dm2303.livefilestore.com
+204.79.197.213	public.dm2304.livefilestore.com
+204.79.197.213	bn1306files.storage.live.com
+#204.79.197.211	cid-5b244b56e6779f21.users.storage.live.com
+111.221.29.254	vortex.data.microsoft.com
+134.170.108.26	onedrive.live.com
+134.170.108.152	skyapi.onedrive.live.com
 # OneDrive End
 
 # Smartdnsproxy start
@@ -7081,36 +7123,34 @@
 # Smartdnsproxy end
 
 # SoundCloud Start
+72.21.91.127	soundcloud.com
+72.21.91.127	www.soundcloud.com
+72.21.91.127	m.soundcloud.com
 72.21.91.127 api.soundcloud.com
 72.21.91.127 api-mobile.soundcloud.com
 72.21.91.127 api-v2.soundcloud.com
-72.21.91.127 m.soundcloud.com
+45.33.14.185	blog.soundcloud.com
+72.21.81.167	ec-media.soundcloud.com
+68.232.32.220	ec-rtmp-media.soundcloud.com
+72.21.91.127	on.soundcloud.com
 72.21.91.127 promoted.soundcloud.com
-72.21.91.127 soundcloud.com
-54.192.127.227 cf-media.sndcdn.com
-68.232.45.67 ec-media.soundcloud.com
-68.232.46.220 ec-rtmp-media.soundcloud.com
-54.230.86.121 i1.sndcdn.com
-54.230.86.121 i2.sndcdn.com
-54.230.86.121 i3.sndcdn.com
-54.192.138.234 i4.sndcdn.com
-111.119.3.1 soundcloud.hs.llnwd.net
+72.21.91.127	visuals.soundcloud.com
+72.21.91.96	a1.sndcdn.com
+72.21.91.96	a-v2.sndcdn.com
+54.230.233.111	cf-media.sndcdn.com
+72.21.81.77	ec-media.sndcdn.com
+72.21.91.96	ec-preview-media.sndcdn.com
 72.21.91.96 style.sndcdn.com
-72.21.91.127 visuals.soundcloud.com
-54.230.86.73 wis.sndcdn.com
-110.4.24.178	eventgateway.soundcloud.com
-110.4.24.178	telemetry.soundcloud.com
-54.230.86.121 a1.sndcdn.com
-54.230.86.121 a-v2.sndcdn.com
-54.230.86.121 va.sndcdn.com
+72.21.91.96	va.sndcdn.com
 # SoundCloud End
 
 # Startpage & Ixquick Start
-37.0.88.36 startpage.com
-37.0.88.36 eu.startpage.com
-37.0.88.36 www.startpage.com
-37.0.88.36 support.startpage.com
-37.0.88.36 blog.startpage.com
+43.249.39.38	startpage.com
+43.249.39.38	www.startpage.com
+43.249.39.49	www.ixquick.com
+43.249.39.49	ixquick.com
+37.0.89.56	support.startpage.com
+37.0.89.57	support.ixquick.com
 # Startpage & Ixquick End
 
 # telegram start
@@ -7126,52 +7166,51 @@
 # Travis CI End
 
 # Tumblr Start
-54.239.176.79	media.tumblr.com
-124.108.101.59	31.media.tumblr.com
-119.161.14.19	31.media.tumblr.com
-54.239.176.79	32.media.tumblr.com
-54.192.98.136	32.media.tumblr.com
-124.108.101.58	33.media.tumblr.com
-119.161.14.20	33.media.tumblr.com
-54.239.176.79	36.media.tumblr.com
-54.192.198.11	36.media.tumblr.com
-119.161.14.20	37.media.tumblr.com
-124.108.101.59	37.media.tumblr.com
-124.108.101.58	38.media.tumblr.com
-119.161.14.20	38.media.tumblr.com
-192.229.237.98  40.media.tumblr.com
-192.229.237.98  46.media.tumblr.com
-93.184.216.98	46.media.tumblr.com
-54.239.176.79	65.media.tumblr.com
-52.84.60.21	65.media.tumblr.com
-192.229.237.98  66.media.tumblr.com
-68.232.35.98	66.media.tumblr.com
-209.197.3.20    67.media.tumblr.com
-124.108.101.59	68.media.tumblr.com
-119.161.14.19	68.media.tumblr.com
-106.10.198.33	cookiex.ngd.yahoo.com
-119.160.242.41	geo.query.yahoo.com
-68.142.242.184	real-min-ruler.secure.yahoo.com
-66.6.32.30	www.tumblr.com
-203.84.197.9	tumblr.com
-203.84.197.9	www.tumblr.com
-66.6.33.158	www.tumblr.com
-192.229.237.97	mx.tumblr.com
-209.197.3.35	secure.assets.tumblr.com
-121.101.144.8	assets.tumblr.com
-52.222.211.243	secure.static.tumblr.com
-54.182.0.52	secure.static.tumblr.com
-119.161.14.20	vt.media.tumblr.com
+66.6.33.193	tumblr.com
+66.6.32.4	tumblr.co
+66.6.32.4	api.tumblr.com
+66.6.32.4	www.tumblr.com
+66.6.32.22	cynicallys.tumblr.com
+66.6.32.22	mx.tumblr.com
 54.182.6.6	vt.tumblr.com
-54.182.6.163	vt.tumblr.com
-54.182.6.201	vt.tumblr.com
-54.182.6.188	vt.tumblr.com
-206.190.61.103	vtt.tumblr.com
-216.115.96.179	vtt.tumblr.com
-66.6.32.162	saber.srvcs.tumblr.com
-66.6.33.34	px.srvcs.tumblr.com
-66.6.32.23	api.tumblr.com
-66.6.33.34	ls.srvcs.tumblr.com
+216.115.100.126	vtt.tumblr.com
+66.6.32.162	ls.srvcs.tumblr.com
+66.6.32.162	px.srvcs.tumblr.com
+119.160.254.197	assets.tumblr.com
+119.160.254.215	secure.assets.tumblr.com
+54.182.6.6	secure.static.tumblr.com
+66.6.44.4	media.tumblr.com
+216.115.100.125	24.media.tumblr.com
+192.229.237.98	30.media.tumblr.com
+216.115.100.126	31.media.tumblr.com
+54.239.176.79	32.media.tumblr.com
+216.115.100.126	33.media.tumblr.com
+54.230.158.13	36.media.tumblr.com
+216.115.100.126	37.media.tumblr.com
+216.115.100.126	38.media.tumblr.com
+209.197.3.20	39.media.tumblr.com
+192.229.237.98  40.media.tumblr.com
+209.197.3.20	41.media.tumblr.com
+192.229.237.185	42.media.tumblr.com
+209.197.3.20	43.media.tumblr.com
+192.229.237.98	44.media.tumblr.com
+209.197.3.20	45.media.tumblr.com
+192.229.237.98  46.media.tumblr.com
+54.192.234.133	47.media.tumblr.com
+209.197.3.20	48.media.tumblr.com
+192.229.237.98	49.media.tumblr.com
+54.192.234.244	50.media.tumblr.com
+54.230.142.156	65.media.tumblr.com
+192.229.237.98  66.media.tumblr.com
+209.197.3.20    67.media.tumblr.com
+216.115.100.126	68.media.tumblr.com
+216.115.100.125	90.media.tumblr.com
+128.127.159.1	94.media.tumblr.com
+23.2.16.8	95.media.tumblr.com
+54.239.176.79	96.media.tumblr.com
+192.229.237.98	97.media.tumblr.com
+151.101.76.249	98.media.tumblr.com
+209.197.3.20	99.media.tumblr.com
 # Tumblr End
 
 # Twitter Start
@@ -7237,15 +7276,15 @@
 104.244.43.71	syndication.twimg.com
 104.244.43.71	syndication-o.twimg.com
 104.244.43.71	image-proxy-origin.twimg.com
-104.244.42.132	tweetdeck.com
-104.244.42.132	api.tweetdeck.com
-104.244.42.132	web.tweetdeck.com
-104.244.42.132	www.tweetdeck.com
-104.244.42.132	downloads.tweetdeck.com
-104.244.43.71	cdn.syndication.twimg.com
-104.244.43.71	cdn.syndication.twitter.com
-104.244.43.71	apps.twitter.com
-104.244.43.71	debates.twitter.com
+104.244.42.196	tweetdeck.com
+104.244.42.196	api.tweetdeck.com
+104.244.42.196	web.tweetdeck.com
+104.244.42.196	www.tweetdeck.com
+104.244.42.196	downloads.tweetdeck.com
+110.4.24.178	cdn.syndication.twimg.com
+110.4.24.178	cdn.syndication.twitter.com
+110.4.24.178	apps.twitter.com
+110.4.24.178	debates.twitter.com
 # Twitter End
 
 
@@ -7276,48 +7315,11 @@
 91.198.174.192 zh.m.wikipedia.org
 # Wikipedia End
 
-# WordPress Start
-192.0.73.2	www.gravatar.com
-192.0.73.2	0.gravatar.com
-192.0.73.2	1.gravatar.com
-192.0.73.2	2.gravatar.com
-192.0.73.2	lb.gravatar.com
-192.0.73.2	secure.gravatar.com
-192.0.80.241	s.gravatar.com
-192.0.80.239	en.gravatar.com
-#192.0.80.240	en.gravatar.com
-192.0.81.250	botd2.wordpress.com
-66.155.9.238	dashboard.wordpress.com
-66.155.9.238	en.blog.wordpress.com
-66.155.9.238	en.forums.wordpress.com
-66.155.9.238	forums.wordpress.com
-192.0.77.2	i0.wp.com
-192.0.77.2	i1.wp.com
-192.0.77.2	i2.wp.com
-66.155.9.238	lb.wordpress.com
-66.155.9.238	lucifr.wordpress.com
-192.0.81.250	r-login.wordpress.com
-192.229.144.127	s.w.org
-68.232.44.111	s.wordpress.com
-68.232.44.111	s.wordpress.org
-68.232.44.111	s0.wp.com
-68.232.44.111	s1.wordpress.com
-68.232.44.111	s1.wp.com
-68.232.44.111	s2.wordpress.com
-68.232.44.111	s2.wp.com
-68.232.44.111	s3.wordpress.com
-66.155.9.238	stats.wordpress.com
-66.155.11.243	wordpress.com
-66.155.9.238	wpcom.wordpress.com
-66.155.9.238	zh.wordpress.com
-66.155.9.238	zh-cn.wordpress.com
-66.155.9.238	zh-sg.wordpress.com
-# WordPress End
 
 # Yahoo Start
 192.0.79.32	code.flickr.com
 121.101.144.112	api.flickr.com
-119.161.9.151	c5.ah.yahoo.com
+202.43.194.205	c5.ah.yahoo.com
 119.160.254.215	d.yimg.com
 106.10.136.195	de.yahoo.com
 119.160.254.215	e.yimg.com
@@ -7348,7 +7350,7 @@
 119.160.254.215	h.yimg.com
 106.10.199.10	hk.news.yahoo.com
 106.10.138.240	hk.yahoo.com
-206.190.39.139	hsrd.yahoo.com
+106.10.136.146	hsrd.yahoo.com
 106.10.193.20	hk-mg61.mail.yahoo.com
 119.160.254.215	l.yimg.com
 106.10.193.20	login.yahoo.com
@@ -7357,7 +7359,7 @@
 203.84.197.27	mg.mail.yahoo.com
 106.10.193.20	na.edit.yahoo.com
 106.10.193.20	open.login.yahoo.com
-98.136.166.37	overview.mail.yahoo.com
+216.39.54.12	overview.mail.yahoo.com
 119.160.254.215	p.yimg.com
 216.115.100.106	s.yimg.com
 119.160.254.215	s1.yimg.com
@@ -7411,19 +7413,11 @@
 151.101.40.233 serpens.iad.appboy.com
 # Other End
 
-# xda-developers
-174.129.2.23 cdn.xda-developers.com
-43.249.37.245 cdn1.xda-developers.com
-43.249.37.245 cdn2.xda-developers.com
-43.249.37.246 cdn3.xda-developers.com
-43.249.37.245 cdn4.xda-developers.com
-43.249.37.245 cdn-img.xda-developers.com
-174.129.2.23 cdn-www.xda-developers.com
-174.129.2.23 cs261.wac.edgecastcdn.net
-207.244.72.9 forum.xda-developers.com
-68.232.44.229 wac.8244.edgecastcdn.net
-207.244.72.9 www.xda-developers.com
-207.244.73.9 xda-developers.com
-# xda-developers
 
+# Section Start: vectorstock
+192.229.144.147       www.vectorstock.com
+192.229.144.147       vectorstock.com
+192.229.144.147       cdn.vectorstock.com
+192.229.144.147       download.vectorstock.com
+# Section Start: vectorstock
 # Modified hosts end
