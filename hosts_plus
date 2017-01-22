@@ -1,5 +1,5 @@
 ##################################################
-# Last updated: 2017-01-16
+# Last updated: 2017-01-21
 ##################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -13,11 +13,9 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ###################################################
-
 # Localhost (DO NOT REMOVE)
-127.0.0.1	localhost
+127.0.0.1 localhost
 ::1	localhost ip6-localhost ip6-loopback
-
 
 # Modified hosts start
 
@@ -81,6 +79,7 @@
 54.192.232.60	cdn-images.bundlestars.com
 185.12.83.2	support.bundlestars.com
 # BundleStars End
+
 # bandwagonhost.com Start
 104.20.6.63	bandwagonhost.com
 # bandwagonhost.com End
@@ -103,22 +102,22 @@
 # Disqus End
 
 # Dropbox Start
-110.4.24.178 db.tt
-110.4.24.178 dropbox.com
-110.4.24.178 m.dropbox.com
-110.4.24.178 www.v.dropbox.com
+110.4.24.178	db.tt
+110.4.24.178	dropbox.com
+110.4.24.178	m.dropbox.com
+110.4.24.178	www.v.dropbox.com
 110.4.24.178	dl-debug.dropbox.com
-110.4.24.178 www.dropbox.com
+110.4.24.178	www.dropbox.com
 52.85.76.60	linux.dropbox.com
-108.160.172.225 d.dropbox.com
-108.160.172.225 d.v.dropbox.com
+108.160.172.225	d.dropbox.com
+108.160.172.225	d.v.dropbox.com
 162.125.18.132	dl-doc.dropbox.com
-108.160.172.225 api-d.dropbox.com
-108.160.172.225 api.dropboxapi.com
-108.160.172.225 api.dropbox.com
-108.160.172.225 api.v.dropbox.com
-108.160.172.225 api-notify.dropbox.com
-108.160.172.225 www.dropboxstatic.com
+108.160.172.225	api-d.dropbox.com
+108.160.172.225	api.dropboxapi.com
+108.160.172.225	api.dropbox.com
+108.160.172.225	api.v.dropbox.com
+108.160.172.225	api-notify.dropbox.com
+108.160.172.225	www.dropboxstatic.com
 104.16.100.29	cfl.dropboxstatic.com
 108.160.172.229	dbxlocal.dropboxstatic.com
 199.47.217.36	api-content.dropbox.com
@@ -249,8 +248,8 @@
 192.0.78.13	managingbias.fb.com
 192.0.78.13	rightsmanager.fb.com
 192.0.78.13	instantarticles.fb.com
-192.0.66.2 messengerplatform.fb.com
-199.201.64.67 threatexchange.fb.com
+192.0.66.2	messengerplatform.fb.com
+199.201.64.67	threatexchange.fb.com
 31.13.95.6 snaptu-z.facebook.com
 31.13.95.6 snaptu-p1.facebook.com
 31.13.95.40 snaptu-p2.facebook.com
@@ -840,7 +839,9 @@
 61.91.161.217	scholar.google.com.hk
 61.91.161.217	scholar.google.com.tw
 61.91.161.217	sites.google.com
+61.91.161.217	surveys.google.com
 61.91.161.217	sketchup.google.com
+61.91.161.217	tagmanager.google.com
 61.91.161.217	talkgadget.google.com
 61.91.161.217	tools.google.com
 61.91.161.217	toolbar.google.com
@@ -2934,27 +2935,29 @@
 52.36.140.12	pubnub.com
 74.125.34.32	www.humblebundle.com
 # HumbleBundle End
+
 # imgur Start
 103.245.224.193	imgur.com
 103.245.224.193	www.imgur.com
 103.245.224.193	i.imgur.com
 103.245.224.193	s.imgur.com
 # imgur End
+
 # Instagram Start
-31.13.70.52 instagram.com
-31.13.70.52 www.instagram.com
-31.13.70.52 i.instagram.com
-31.13.70.52 api.instagram.com
-31.13.70.52 help.instagram.com
-31.13.70.52 blog.instagram.com
-31.13.69.245 graph.instagram.com
-31.13.70.52 logger.instagram.com
-31.13.70.52 badges.instagram.com
-31.13.95.48 platform.instagram.com
-31.13.70.52 maps.instagram.com
-31.13.70.52 scontent.cdninstagram.com
-31.13.70.52 scontent-a.cdninstagram.com
-31.13.70.52 scontent-b.cdninstagram.com
+31.13.70.52	instagram.com
+31.13.70.52	www.instagram.com
+31.13.70.52	i.instagram.com
+31.13.70.52	api.instagram.com
+31.13.70.52	help.instagram.com
+31.13.70.52	blog.instagram.com
+31.13.69.245	graph.instagram.com
+31.13.70.52	logger.instagram.com
+31.13.70.52	badges.instagram.com
+31.13.95.48	platform.instagram.com
+31.13.70.52	maps.instagram.com
+31.13.70.52	scontent.cdninstagram.com
+31.13.70.52	scontent-a.cdninstagram.com
+31.13.70.52	scontent-b.cdninstagram.com
 203.69.81.18 igcdn-photos-a-a.akamaihd.net
 203.69.81.18 igcdn-photos-b-a.akamaihd.net
 203.69.81.18 igcdn-photos-c-a.akamaihd.net
@@ -3308,6 +3311,9 @@
 203.69.81.18 distilleryimage10.ak.instagram.com
 203.69.81.18 distilleryimage11.ak.instagram.com
 # Instagram End
+
+
+
 # issuu Start
 52.72.26.162	issuu.com
 52.72.26.162	www.issuu.com
@@ -3323,15 +3329,18 @@
 52.72.26.162	skin.issuu.com
 52.72.26.162	help.issuu.com
 # issuu End
+
 # Logmein Start
 74.201.74.193	secure.logmein.com
 # Logmein End
+
 # Medium start
 104.16.120.127	medium.com
 104.16.120.145	cdn-static-1.medium.com
 104.16.120.145	cdn-images-1.medium.com
 103.245.222.101	cdn-images-2.medium.com
 # Medium end
+
 # MEGA Start
 31.216.147.135	eu.api.mega.co.nz
 154.53.224.130	eu.static.mega.co.nz
@@ -3340,6 +3349,7 @@
 154.53.224.166	mega.nz
 31.216.147.130	w.api.mega.co.nz
 # MEGA End
+
 # nytimes for mobile Start
 170.149.159.135	nytimes.com
 52.84.219.212	cn.nytimes.com
@@ -3365,14 +3375,24 @@
 184.84.127.110	css.nyt.com
 184.84.127.110	int.nyt.com
 # nytimes for mobile End
+
 # OneDrive Start
 204.79.197.217	onedrive.live.com
 134.170.107.72	skyapi.onedrive.live.com
 # OneDrive End
+
+# Psiphon Start
+54.239.168.4	psiphon3.com
+54.239.168.4	www.psiphon3.com
+104.20.39.14	psiphon.ca
+104.20.39.14	www.psiphon.ca
+# Psiphon End
+ 
 # Smartdnsproxy start
 103.28.248.96	www.smartdnsproxy.com
 184.72.50.35	support.smartdnsproxy.com
 # Smartdnsproxy end
+
 # SoundCloud Start
 72.21.91.127	soundcloud.com
 72.21.91.127	www.soundcloud.com
@@ -3394,6 +3414,7 @@
 72.21.91.96	style.sndcdn.com
 72.21.91.96	va.sndcdn.com
 # SoundCloud End
+
 # Startpage & Ixquick Start
 43.249.39.38	startpage.com
 43.249.39.38	www.startpage.com
@@ -3402,6 +3423,7 @@
 37.0.89.56	support.startpage.com
 37.0.89.57	support.ixquick.com
 # Startpage & Ixquick End
+
 # telegram start
 # As an alternative, you can use:
 # https://telegram.ustclug.org
@@ -3412,6 +3434,49 @@
 149.154.167.99	macos.telegram.org
 149.154.167.120	web.telegram.org
 # telegram end
+
++# Tor Start
+154.35.132.70	torproject.org
+154.35.132.70	www.torproject.org
+82.195.75.101	archive.torproject.org
+154.35.132.70	atlas.torproject.org
+138.201.14.196	blog.torproject.org
+78.47.38.229	bridges.torproject.org
+154.35.132.70	bugs.torproject.org
+138.201.14.212	check.torproject.org
+154.35.132.70	cloud.torproject.org
+138.201.14.216	collector.torproject.org
+38.229.72.20	compass.torproject.org
+154.35.132.70	consensus-health.torproject.org
+138.201.14.199	db.torproject.org
+154.35.132.70	deb.torproject.org
+154.35.132.70	dist.torproject.org
+138.201.212.231	donate.torproject.org
+138.201.14.214	exonerator.torproject.org
+154.35.132.70	gettor.torproject.org
+138.201.212.228	git.torproject.org
+138.201.212.228	gitweb.torproject.org
+154.35.132.70	help.torproject.org
+161.47.6.182	labs.torproject.org
+138.201.14.202	lists.torproject.org
+82.195.75.101	media.torproject.org
+138.201.14.215	metrics.torproject.org
+154.35.132.70	onion.torproject.org
+78.47.38.227	onionoo.torproject.org
+154.35.132.70	ooni.torproject.org
+52.70.141.81	explorer.ooni.torproject.org
+138.201.14.203	people.torproject.org
+154.35.132.70	research.torproject.org
+138.201.212.230	rt.torproject.org
+154.35.132.70	spec.torproject.org
+78.47.38.231	stem.torproject.org
+78.47.38.231	storm.torproject.org
+138.201.14.206	svn.torproject.org
+154.35.132.70	tb-manual.torproject.org
+138.201.212.227	trac.torproject.org
+154.35.132.70	wiki.torproject.org
+# Tor End
+
 # Travis CI Start
 151.101.76.249	travis-ci-org.global.ssl.fastly.net
 # Travis CI End
@@ -3424,6 +3489,7 @@
 66.6.32.22	cynicallys.tumblr.com
 66.6.32.22	mx.tumblr.com
 54.182.6.6	vt.tumblr.com
+87.248.116.14	vt.media.tumblr.com
 216.115.100.126	vtt.tumblr.com
 66.6.32.162	ls.srvcs.tumblr.com
 66.6.32.162	px.srvcs.tumblr.com
@@ -3463,6 +3529,7 @@
 151.101.76.249	98.media.tumblr.com
 209.197.3.20	99.media.tumblr.com
 # Tumblr End
+
 # Twitter Start
 110.4.24.178	twitter.com
 110.4.24.178	www.twitter.com
@@ -3536,6 +3603,7 @@
 110.4.24.178	apps.twitter.com
 110.4.24.178	debates.twitter.com
 # Twitter End
+
 # Vimeo Start
 104.156.85.217	vimeo.com
 104.156.85.217	www.vimeo.com
@@ -3545,16 +3613,19 @@
 103.245.222.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
 # Vimeo End
+
 # W3schools Start
 66.29.212.110	w3schools.com
 68.232.44.251	www.w3schools.com
 # W3schools End
+
 # Wikipedia Start
 198.35.26.96	wuu.wikipedia.org
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
 # Wikipedia End
+
 # Yahoo Start
 192.0.79.32	code.flickr.com
 119.161.10.150	api.flickr.com
@@ -3631,166 +3702,168 @@
 50.18.192.250	duckduckgo-owned-server.yahoo.net
 116.214.11.98	tw.mobi.yahoo.com
 # Yahoo End
-110.4.24.178	r1---sn-i3b7knez.gvt1.com
-110.4.24.178	r2---sn-i3b7knez.gvt1.com
-110.4.24.178	r3---sn-i3b7knez.gvt1.com
-110.4.24.178	r4---sn-i3b7knez.gvt1.com
-110.4.24.178	r5---sn-i3b7knez.gvt1.com
-110.4.24.178	r6---sn-i3b7knez.gvt1.com
-110.4.24.178	r7---sn-i3b7knez.gvt1.com
-110.4.24.178	r8---sn-i3b7knez.gvt1.com
-110.4.24.178	r9---sn-i3b7knez.gvt1.com
-110.4.24.178	r10---sn-i3b7knez.gvt1.com
-110.4.24.178	r11---sn-i3b7knez.gvt1.com
-110.4.24.178	r12---sn-i3b7knez.gvt1.com
-110.4.24.178	r13---sn-i3b7knez.gvt1.com
-110.4.24.178	r14---sn-i3b7knez.gvt1.com
-110.4.24.178	r15---sn-i3b7knez.gvt1.com
-110.4.24.178	r16---sn-i3b7knez.gvt1.com
-110.4.24.178	r17---sn-i3b7knez.gvt1.com
-110.4.24.178	r18---sn-i3b7knez.gvt1.com
-110.4.24.178	r19---sn-i3b7knez.gvt1.com
-110.4.24.178	r20---sn-i3b7knez.gvt1.com
-110.4.24.178	r1---sn-i3b7knel.gvt1.com
-110.4.24.178	r2---sn-i3b7knel.gvt1.com
-110.4.24.178	r3---sn-i3b7knel.gvt1.com
-110.4.24.178	r4---sn-i3b7knel.gvt1.com
-110.4.24.178	r5---sn-i3b7knel.gvt1.com
-110.4.24.178	r6---sn-i3b7knel.gvt1.com
-110.4.24.178	r7---sn-i3b7knel.gvt1.com
-110.4.24.178	r8---sn-i3b7knel.gvt1.com
-110.4.24.178	r9---sn-i3b7knel.gvt1.com
-110.4.24.178	r10---sn-i3b7knel.gvt1.com
-110.4.24.178	r11---sn-i3b7knel.gvt1.com
-110.4.24.178	r12---sn-i3b7knel.gvt1.com
-110.4.24.178	r13---sn-i3b7knel.gvt1.com
-110.4.24.178	r14---sn-i3b7knel.gvt1.com
-110.4.24.178	r15---sn-i3b7knel.gvt1.com
-110.4.24.178	r16---sn-i3b7knel.gvt1.com
-110.4.24.178	r17---sn-i3b7knel.gvt1.com
-110.4.24.178	r18---sn-i3b7knel.gvt1.com
-110.4.24.178	r19---sn-i3b7knel.gvt1.com
-110.4.24.178	r20---sn-i3b7knel.gvt1.com
-110.4.24.178	r1---sn-i3b7kner.gvt1.com
-110.4.24.178	r2---sn-i3b7kner.gvt1.com
-110.4.24.178	r3---sn-i3b7kner.gvt1.com
-110.4.24.178	r4---sn-i3b7kner.gvt1.com
-110.4.24.178	r5---sn-i3b7kner.gvt1.com
-110.4.24.178	r6---sn-i3b7kner.gvt1.com
-110.4.24.178	r7---sn-i3b7kner.gvt1.com
-110.4.24.178	r8---sn-i3b7kner.gvt1.com
-110.4.24.178	r9---sn-i3b7kner.gvt1.com
-110.4.24.178	r10---sn-i3b7kner.gvt1.com
-110.4.24.178	r11---sn-i3b7kner.gvt1.com
-110.4.24.178	r12---sn-i3b7kner.gvt1.com
-110.4.24.178	r13---sn-i3b7kner.gvt1.com
-110.4.24.178	r14---sn-i3b7kner.gvt1.com
-110.4.24.178	r15---sn-i3b7kner.gvt1.com
-110.4.24.178	r16---sn-i3b7kner.gvt1.com
-110.4.24.178	r17---sn-i3b7kner.gvt1.com
-110.4.24.178	r18---sn-i3b7kner.gvt1.com
-110.4.24.178	r19---sn-i3b7kner.gvt1.com
-110.4.24.178	r20---sn-i3b7kner.gvt1.com
-110.4.24.178	r1---sn-i3b7knes.gvt1.com
-110.4.24.178	r2---sn-i3b7knes.gvt1.com
-110.4.24.178	r3---sn-i3b7knes.gvt1.com
-110.4.24.178	r4---sn-i3b7knes.gvt1.com
-110.4.24.178	r5---sn-i3b7knes.gvt1.com
-110.4.24.178	r6---sn-i3b7knes.gvt1.com
-110.4.24.178	r7---sn-i3b7knes.gvt1.com
-110.4.24.178	r8---sn-i3b7knes.gvt1.com
-110.4.24.178	r9---sn-i3b7knes.gvt1.com
-110.4.24.178	r10---sn-i3b7knes.gvt1.com
-110.4.24.178	r11---sn-i3b7knes.gvt1.com
-110.4.24.178	r12---sn-i3b7knes.gvt1.com
-110.4.24.178	r13---sn-i3b7knes.gvt1.com
-110.4.24.178	r14---sn-i3b7knes.gvt1.com
-110.4.24.178	r15---sn-i3b7knes.gvt1.com
-110.4.24.178	r16---sn-i3b7knes.gvt1.com
-110.4.24.178	r17---sn-i3b7knes.gvt1.com
-110.4.24.178	r18---sn-i3b7knes.gvt1.com
-110.4.24.178	r19---sn-i3b7knes.gvt1.com
-110.4.24.178	r20---sn-i3b7knes.gvt1.com
-110.4.24.178	r1---sn-i3b7knee.gvt1.com
-110.4.24.178	r2---sn-i3b7knee.gvt1.com
-110.4.24.178	r3---sn-i3b7knee.gvt1.com
-110.4.24.178	r4---sn-i3b7knee.gvt1.com
-110.4.24.178	r5---sn-i3b7knee.gvt1.com
-110.4.24.178	r6---sn-i3b7knee.gvt1.com
-110.4.24.178	r7---sn-i3b7knee.gvt1.com
-110.4.24.178	r8---sn-i3b7knee.gvt1.com
-110.4.24.178	r9---sn-i3b7knee.gvt1.com
-110.4.24.178	r10---sn-i3b7knee.gvt1.com
-110.4.24.178	r11---sn-i3b7knee.gvt1.com
-110.4.24.178	r12---sn-i3b7knee.gvt1.com
-110.4.24.178	r13---sn-i3b7knee.gvt1.com
-110.4.24.178	r14---sn-i3b7knee.gvt1.com
-110.4.24.178	r15---sn-i3b7knee.gvt1.com
-110.4.24.178	r16---sn-i3b7knee.gvt1.com
-110.4.24.178	r17---sn-i3b7knee.gvt1.com
-110.4.24.178	r18---sn-i3b7knee.gvt1.com
-110.4.24.178	r19---sn-i3b7knee.gvt1.com
-110.4.24.178	r20---sn-i3b7knee.gvt1.com
-110.4.24.178	r1---sn-i3b7kney.gvt1.com
-110.4.24.178	r2---sn-i3b7kney.gvt1.com
-110.4.24.178	r3---sn-i3b7kney.gvt1.com
-110.4.24.178	r4---sn-i3b7kney.gvt1.com
-110.4.24.178	r5---sn-i3b7kney.gvt1.com
-110.4.24.178	r6---sn-i3b7kney.gvt1.com
-110.4.24.178	r7---sn-i3b7kney.gvt1.com
-110.4.24.178	r8---sn-i3b7kney.gvt1.com
-110.4.24.178	r9---sn-i3b7kney.gvt1.com
-110.4.24.178	r10---sn-i3b7kney.gvt1.com
-110.4.24.178	r11---sn-i3b7kney.gvt1.com
-110.4.24.178	r12---sn-i3b7kney.gvt1.com
-110.4.24.178	r13---sn-i3b7kney.gvt1.com
-110.4.24.178	r14---sn-i3b7kney.gvt1.com
-110.4.24.178	r15---sn-i3b7kney.gvt1.com
-110.4.24.178	r16---sn-i3b7kney.gvt1.com
-110.4.24.178	r17---sn-i3b7kney.gvt1.com
-110.4.24.178	r18---sn-i3b7kney.gvt1.com
-110.4.24.178	r19---sn-i3b7kney.gvt1.com
-110.4.24.178	r20---sn-i3b7kney.gvt1.com
-110.4.24.178	r1---sn-i3b7knek.gvt1.com
-110.4.24.178	r2---sn-i3b7knek.gvt1.com
-110.4.24.178	r3---sn-i3b7knek.gvt1.com
-110.4.24.178	r4---sn-i3b7knek.gvt1.com
-110.4.24.178	r5---sn-i3b7knek.gvt1.com
-110.4.24.178	r6---sn-i3b7knek.gvt1.com
-110.4.24.178	r7---sn-i3b7knek.gvt1.com
-110.4.24.178	r8---sn-i3b7knek.gvt1.com
-110.4.24.178	r9---sn-i3b7knek.gvt1.com
-110.4.24.178	r10---sn-i3b7knek.gvt1.com
-110.4.24.178	r11---sn-i3b7knek.gvt1.com
-110.4.24.178	r12---sn-i3b7knek.gvt1.com
-110.4.24.178	r13---sn-i3b7knek.gvt1.com
-110.4.24.178	r14---sn-i3b7knek.gvt1.com
-110.4.24.178	r15---sn-i3b7knek.gvt1.com
-110.4.24.178	r16---sn-i3b7knek.gvt1.com
-110.4.24.178	r17---sn-i3b7knek.gvt1.com
-110.4.24.178	r18---sn-i3b7knek.gvt1.com
-110.4.24.178	r19---sn-i3b7knek.gvt1.com
-110.4.24.178	r20---sn-i3b7knek.gvt1.com
-110.4.24.178	r1---sn-i3b7kned.gvt1.com
-110.4.24.178	r2---sn-i3b7kned.gvt1.com
-110.4.24.178	r3---sn-i3b7kned.gvt1.com
-110.4.24.178	r4---sn-i3b7kned.gvt1.com
-110.4.24.178	r5---sn-i3b7kned.gvt1.com
-110.4.24.178	r6---sn-i3b7kned.gvt1.com
-110.4.24.178	r7---sn-i3b7kned.gvt1.com
-110.4.24.178	r8---sn-i3b7kned.gvt1.com
-110.4.24.178	r9---sn-i3b7kned.gvt1.com
-110.4.24.178	r10---sn-i3b7kned.gvt1.com
-110.4.24.178	r11---sn-i3b7kned.gvt1.com
-110.4.24.178	r12---sn-i3b7kned.gvt1.com
-110.4.24.178	r13---sn-i3b7kned.gvt1.com
-110.4.24.178	r14---sn-i3b7kned.gvt1.com
-110.4.24.178	r15---sn-i3b7kned.gvt1.com
-110.4.24.178	r16---sn-i3b7kned.gvt1.com
-110.4.24.178	r17---sn-i3b7kned.gvt1.com
-110.4.24.178	r18---sn-i3b7kned.gvt1.com
-110.4.24.178	r19---sn-i3b7kned.gvt1.com
-110.4.24.178	r20---sn-i3b7kned.gvt1.com
+
+
+110.4.24.178 r1---sn-i3b7knez.gvt1.com
+110.4.24.178 r2---sn-i3b7knez.gvt1.com
+110.4.24.178 r3---sn-i3b7knez.gvt1.com
+110.4.24.178 r4---sn-i3b7knez.gvt1.com
+110.4.24.178 r5---sn-i3b7knez.gvt1.com
+110.4.24.178 r6---sn-i3b7knez.gvt1.com
+110.4.24.178 r7---sn-i3b7knez.gvt1.com
+110.4.24.178 r8---sn-i3b7knez.gvt1.com
+110.4.24.178 r9---sn-i3b7knez.gvt1.com
+110.4.24.178 r10---sn-i3b7knez.gvt1.com
+110.4.24.178 r11---sn-i3b7knez.gvt1.com
+110.4.24.178 r12---sn-i3b7knez.gvt1.com
+110.4.24.178 r13---sn-i3b7knez.gvt1.com
+110.4.24.178 r14---sn-i3b7knez.gvt1.com
+110.4.24.178 r15---sn-i3b7knez.gvt1.com
+110.4.24.178 r16---sn-i3b7knez.gvt1.com
+110.4.24.178 r17---sn-i3b7knez.gvt1.com
+110.4.24.178 r18---sn-i3b7knez.gvt1.com
+110.4.24.178 r19---sn-i3b7knez.gvt1.com
+110.4.24.178 r20---sn-i3b7knez.gvt1.com
+110.4.24.178 r1---sn-i3b7knel.gvt1.com
+110.4.24.178 r2---sn-i3b7knel.gvt1.com
+110.4.24.178 r3---sn-i3b7knel.gvt1.com
+110.4.24.178 r4---sn-i3b7knel.gvt1.com
+110.4.24.178 r5---sn-i3b7knel.gvt1.com
+110.4.24.178 r6---sn-i3b7knel.gvt1.com
+110.4.24.178 r7---sn-i3b7knel.gvt1.com
+110.4.24.178 r8---sn-i3b7knel.gvt1.com
+110.4.24.178 r9---sn-i3b7knel.gvt1.com
+110.4.24.178 r10---sn-i3b7knel.gvt1.com
+110.4.24.178 r11---sn-i3b7knel.gvt1.com
+110.4.24.178 r12---sn-i3b7knel.gvt1.com
+110.4.24.178 r13---sn-i3b7knel.gvt1.com
+110.4.24.178 r14---sn-i3b7knel.gvt1.com
+110.4.24.178 r15---sn-i3b7knel.gvt1.com
+110.4.24.178 r16---sn-i3b7knel.gvt1.com
+110.4.24.178 r17---sn-i3b7knel.gvt1.com
+110.4.24.178 r18---sn-i3b7knel.gvt1.com
+110.4.24.178 r19---sn-i3b7knel.gvt1.com
+110.4.24.178 r20---sn-i3b7knel.gvt1.com
+110.4.24.178 r1---sn-i3b7kner.gvt1.com
+110.4.24.178 r2---sn-i3b7kner.gvt1.com
+110.4.24.178 r3---sn-i3b7kner.gvt1.com
+110.4.24.178 r4---sn-i3b7kner.gvt1.com
+110.4.24.178 r5---sn-i3b7kner.gvt1.com
+110.4.24.178 r6---sn-i3b7kner.gvt1.com
+110.4.24.178 r7---sn-i3b7kner.gvt1.com
+110.4.24.178 r8---sn-i3b7kner.gvt1.com
+110.4.24.178 r9---sn-i3b7kner.gvt1.com
+110.4.24.178 r10---sn-i3b7kner.gvt1.com
+110.4.24.178 r11---sn-i3b7kner.gvt1.com
+110.4.24.178 r12---sn-i3b7kner.gvt1.com
+110.4.24.178 r13---sn-i3b7kner.gvt1.com
+110.4.24.178 r14---sn-i3b7kner.gvt1.com
+110.4.24.178 r15---sn-i3b7kner.gvt1.com
+110.4.24.178 r16---sn-i3b7kner.gvt1.com
+110.4.24.178 r17---sn-i3b7kner.gvt1.com
+110.4.24.178 r18---sn-i3b7kner.gvt1.com
+110.4.24.178 r19---sn-i3b7kner.gvt1.com
+110.4.24.178 r20---sn-i3b7kner.gvt1.com
+110.4.24.178 r1---sn-i3b7knes.gvt1.com
+110.4.24.178 r2---sn-i3b7knes.gvt1.com
+110.4.24.178 r3---sn-i3b7knes.gvt1.com
+110.4.24.178 r4---sn-i3b7knes.gvt1.com
+110.4.24.178 r5---sn-i3b7knes.gvt1.com
+110.4.24.178 r6---sn-i3b7knes.gvt1.com
+110.4.24.178 r7---sn-i3b7knes.gvt1.com
+110.4.24.178 r8---sn-i3b7knes.gvt1.com
+110.4.24.178 r9---sn-i3b7knes.gvt1.com
+110.4.24.178 r10---sn-i3b7knes.gvt1.com
+110.4.24.178 r11---sn-i3b7knes.gvt1.com
+110.4.24.178 r12---sn-i3b7knes.gvt1.com
+110.4.24.178 r13---sn-i3b7knes.gvt1.com
+110.4.24.178 r14---sn-i3b7knes.gvt1.com
+110.4.24.178 r15---sn-i3b7knes.gvt1.com
+110.4.24.178 r16---sn-i3b7knes.gvt1.com
+110.4.24.178 r17---sn-i3b7knes.gvt1.com
+110.4.24.178 r18---sn-i3b7knes.gvt1.com
+110.4.24.178 r19---sn-i3b7knes.gvt1.com
+110.4.24.178 r20---sn-i3b7knes.gvt1.com
+110.4.24.178 r1---sn-i3b7knee.gvt1.com
+110.4.24.178 r2---sn-i3b7knee.gvt1.com
+110.4.24.178 r3---sn-i3b7knee.gvt1.com
+110.4.24.178 r4---sn-i3b7knee.gvt1.com
+110.4.24.178 r5---sn-i3b7knee.gvt1.com
+110.4.24.178 r6---sn-i3b7knee.gvt1.com
+110.4.24.178 r7---sn-i3b7knee.gvt1.com
+110.4.24.178 r8---sn-i3b7knee.gvt1.com
+110.4.24.178 r9---sn-i3b7knee.gvt1.com
+110.4.24.178 r10---sn-i3b7knee.gvt1.com
+110.4.24.178 r11---sn-i3b7knee.gvt1.com
+110.4.24.178 r12---sn-i3b7knee.gvt1.com
+110.4.24.178 r13---sn-i3b7knee.gvt1.com
+110.4.24.178 r14---sn-i3b7knee.gvt1.com
+110.4.24.178 r15---sn-i3b7knee.gvt1.com
+110.4.24.178 r16---sn-i3b7knee.gvt1.com
+110.4.24.178 r17---sn-i3b7knee.gvt1.com
+110.4.24.178 r18---sn-i3b7knee.gvt1.com
+110.4.24.178 r19---sn-i3b7knee.gvt1.com
+110.4.24.178 r20---sn-i3b7knee.gvt1.com
+110.4.24.178 r1---sn-i3b7kney.gvt1.com
+110.4.24.178 r2---sn-i3b7kney.gvt1.com
+110.4.24.178 r3---sn-i3b7kney.gvt1.com
+110.4.24.178 r4---sn-i3b7kney.gvt1.com
+110.4.24.178 r5---sn-i3b7kney.gvt1.com
+110.4.24.178 r6---sn-i3b7kney.gvt1.com
+110.4.24.178 r7---sn-i3b7kney.gvt1.com
+110.4.24.178 r8---sn-i3b7kney.gvt1.com
+110.4.24.178 r9---sn-i3b7kney.gvt1.com
+110.4.24.178 r10---sn-i3b7kney.gvt1.com
+110.4.24.178 r11---sn-i3b7kney.gvt1.com
+110.4.24.178 r12---sn-i3b7kney.gvt1.com
+110.4.24.178 r13---sn-i3b7kney.gvt1.com
+110.4.24.178 r14---sn-i3b7kney.gvt1.com
+110.4.24.178 r15---sn-i3b7kney.gvt1.com
+110.4.24.178 r16---sn-i3b7kney.gvt1.com
+110.4.24.178 r17---sn-i3b7kney.gvt1.com
+110.4.24.178 r18---sn-i3b7kney.gvt1.com
+110.4.24.178 r19---sn-i3b7kney.gvt1.com
+110.4.24.178 r20---sn-i3b7kney.gvt1.com
+110.4.24.178 r1---sn-i3b7knek.gvt1.com
+110.4.24.178 r2---sn-i3b7knek.gvt1.com
+110.4.24.178 r3---sn-i3b7knek.gvt1.com
+110.4.24.178 r4---sn-i3b7knek.gvt1.com
+110.4.24.178 r5---sn-i3b7knek.gvt1.com
+110.4.24.178 r6---sn-i3b7knek.gvt1.com
+110.4.24.178 r7---sn-i3b7knek.gvt1.com
+110.4.24.178 r8---sn-i3b7knek.gvt1.com
+110.4.24.178 r9---sn-i3b7knek.gvt1.com
+110.4.24.178 r10---sn-i3b7knek.gvt1.com
+110.4.24.178 r11---sn-i3b7knek.gvt1.com
+110.4.24.178 r12---sn-i3b7knek.gvt1.com
+110.4.24.178 r13---sn-i3b7knek.gvt1.com
+110.4.24.178 r14---sn-i3b7knek.gvt1.com
+110.4.24.178 r15---sn-i3b7knek.gvt1.com
+110.4.24.178 r16---sn-i3b7knek.gvt1.com
+110.4.24.178 r17---sn-i3b7knek.gvt1.com
+110.4.24.178 r18---sn-i3b7knek.gvt1.com
+110.4.24.178 r19---sn-i3b7knek.gvt1.com
+110.4.24.178 r20---sn-i3b7knek.gvt1.com
+110.4.24.178 r1---sn-i3b7kned.gvt1.com
+110.4.24.178 r2---sn-i3b7kned.gvt1.com
+110.4.24.178 r3---sn-i3b7kned.gvt1.com
+110.4.24.178 r4---sn-i3b7kned.gvt1.com
+110.4.24.178 r5---sn-i3b7kned.gvt1.com
+110.4.24.178 r6---sn-i3b7kned.gvt1.com
+110.4.24.178 r7---sn-i3b7kned.gvt1.com
+110.4.24.178 r8---sn-i3b7kned.gvt1.com
+110.4.24.178 r9---sn-i3b7kned.gvt1.com
+110.4.24.178 r10---sn-i3b7kned.gvt1.com
+110.4.24.178 r11---sn-i3b7kned.gvt1.com
+110.4.24.178 r12---sn-i3b7kned.gvt1.com
+110.4.24.178 r13---sn-i3b7kned.gvt1.com
+110.4.24.178 r14---sn-i3b7kned.gvt1.com
+110.4.24.178 r15---sn-i3b7kned.gvt1.com
+110.4.24.178 r16---sn-i3b7kned.gvt1.com
+110.4.24.178 r17---sn-i3b7kned.gvt1.com
+110.4.24.178 r18---sn-i3b7kned.gvt1.com
+110.4.24.178 r19---sn-i3b7kned.gvt1.com
+110.4.24.178 r20---sn-i3b7kned.gvt1.com
 110.4.24.178 r1---sn-i3b7kne6.gvt1.com
 110.4.24.178 r2---sn-i3b7kne6.gvt1.com
 110.4.24.178 r3---sn-i3b7kne6.gvt1.com
@@ -6638,6 +6711,7 @@
 110.4.24.178 www.dropbox.com
 110.4.24.178 dl-debug.dropbox.com
 110.4.24.178 log.getdropbox.com
+
 110.4.24.178 chatenabled.mail.google.com
 110.4.24.178 filetransferenabled.mail.google.com
 110.4.24.178 gmail.com
@@ -8052,68 +8126,41 @@
 110.4.24.178 lh5.googleusercontent.com
 110.4.24.178 lh6.googleusercontent.com
 110.4.24.178 notifications.google.com
-110.4.24.178	youtube.com
-110.4.24.178	www.youtube.com
-110.4.24.178	au.youtube.com
-110.4.24.178	ca.youtube.com
-110.4.24.178	de.youtube.com
+110.4.24.178 youtube.com
+110.4.24.178 www.youtube.com
+110.4.24.178 au.youtube.com
+110.4.24.178 ca.youtube.com
+110.4.24.178 de.youtube.com
 110.4.24.178 fr.youtube.co
-110.4.24.178	jp.youtube.com
-110.4.24.178	ru.youtube.com
-110.4.24.178	uk.youtube.com
-110.4.24.178	tw.youtube.com
-110.4.24.178	www.youtube-nocookie.com
-110.4.24.178	m.youtube.com
-110.4.24.178	youtu.be
-110.4.24.178	gdata.youtube.com
-110.4.24.178	stage.gdata.youtube.com
-110.4.24.178	s.youtube.com
+110.4.24.178 jp.youtube.com
+110.4.24.178 ru.youtube.com
+110.4.24.178 uk.youtube.com
+110.4.24.178 tw.youtube.com
+110.4.24.178 www.youtube-nocookie.com
+110.4.24.178 m.youtube.com
+110.4.24.178 youtu.be
+110.4.24.178 gdata.youtube.com
+110.4.24.178 stage.gdata.youtube.com
+110.4.24.178 s.youtube.com
 110.4.24.178 s2.youtube.com
-110.4.24.178	accounts.youtube.com
-110.4.24.178	img.youtube.com
-110.4.24.178	help.youtube.com
-110.4.24.178	upload.youtube.com
-110.4.24.178	insight.youtube.com
-110.4.24.178	apiblog.youtube.com
+110.4.24.178 accounts.youtube.com
+110.4.24.178 img.youtube.com
+110.4.24.178 help.youtube.com
+110.4.24.178 upload.youtube.com
+110.4.24.178 insight.youtube.com
+110.4.24.178 apiblog.youtube.com
 110.4.24.178 clients1.youtube.com
-110.4.24.178	i.ytimg.com
-110.4.24.178	i1.ytimg.com
-110.4.24.178	i2.ytimg.com
-110.4.24.178	i3.ytimg.com
-110.4.24.178	i4.ytimg.com
-110.4.24.178	s.ytimg.com
-
-
-
-
-
-
-
-
-
-
+110.4.24.178 i.ytimg.com
+110.4.24.178 i1.ytimg.com
+110.4.24.178 i2.ytimg.com
+110.4.24.178 i3.ytimg.com
+110.4.24.178 i4.ytimg.com
+110.4.24.178 s.ytimg.com
 110.4.24.178 onetoday.google.com
-
-
-
-
-
-
-
-
 110.4.24.178 redirector.googlevideo.com
 110.4.24.178 redirector.c.youtube.com
 110.4.24.178 manifest.googlevideo.com
 110.4.24.178 redirector.gvt1.com
-
-
-
-
-
-
-
-
-
 110.4.24.178 m-dot-betaspike.appspot.com
 110.4.24.178 api.crittercism.com
 110.4.24.178 appload.ingest.crittercism.com
@@ -8128,7 +8175,6 @@
 169.46.12.69 batch.upsight-api.com
 169.46.12.88 batch.upsight-api.com
 50.31.162.95 www.digwebinterface.com
-
 103.20.93.138 slideshare.net
 103.20.93.138 www.slideshare.net
 61.213.168.33 www.elperiodico.cat
@@ -8136,9 +8182,7 @@
 165.193.93.113 udm.ia5.scorecardresearch.com
 184.25.56.74 b.scorecardresearch.com
 151.101.40.233 serpens.iad.appboy.com
-
 # Other End
-
 
 # vectorstock Start
 192.229.144.147       www.vectorstock.com
@@ -8151,6 +8195,7 @@
 5.196.172.196 www.dxomark.com
 43.245.63.22 cdn.dxomark.com
 # dxomark End
+
 # pcbeta Start
 218.93.127.136 cdn.pcbeta.attachment.inimc.com
 218.93.127.136 cdn.pcbeta.css.inimc.com
@@ -8166,16 +8211,30 @@
 218.93.127.136 web.pcbeta.com
 218.93.127.136 www.pcbeta.com
 # pcbeta End
+
 # uvwxyz Start
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
 45.35.43.168 bbs.uvwxyz.xyz
 45.35.43.170 ipv6.uvwxyz.xyz
 # uvwxyz End
-# Modified hosts end
 
+# xda-developers
+43.249.37.246 cdn1.xda-developers.com
+43.249.37.246 cdn2.xda-developers.com
+43.249.37.246 cdn3.xda-developers.com
+43.249.37.246 cdn4.xda-developers.com
+43.249.37.245 cdn-img.xda-developers.com
+93.46.8.89 cs261.wac.edgecastcdn.net
+207.244.72.9 forum.xda-developers.com
+68.232.44.229 wac.8244.edgecastcdn.net
+209.58.128.90 www.xda-developers.com
+209.58.128.90 xda-developers.com
+# xda-developers
+# Modified hosts end
 #AD hosts Start
-#version=201701152354
+
+#version=201701202304
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -8459,6 +8518,11 @@
 127.0.0.1 nfdnserror16.wo.com.cn
 127.0.0.1 nfdnserror17.wo.com.cn
 127.0.0.1 navi.gd.chinamobile.com
+127.0.0.1 m.kubiqq.com
+127.0.0.1 m.3944540.com
+127.0.0.1 m5.apk.67mo.com
+127.0.0.1 ieonline.microsoft.com
+127.0.0.1 www.msn.com
 127.0.0.1 browser.gwdang.com
 127.0.0.1 router.gwdang.com
 127.0.0.1 ss.cnnic.cn
@@ -8520,6 +8584,7 @@
 127.0.0.1 m.adpro.cn
 127.0.0.1 x.adpro.cn
 127.0.0.1 mediapro.pro.cn
+127.0.0.1 adx.pro.cn
 127.0.0.1 pro.cn
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
@@ -8596,11 +8661,13 @@
 127.0.0.1 ads.heyzap.com
 127.0.0.1 a.ai.inmobi.com
 127.0.0.1 api.w.inmobi.com
+127.0.0.1 au-cn.w.inmobi.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 config.inmobi.com
 127.0.0.1 dock.inmobi.com
 127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 et-cn.w.inmobi.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 rules-ltvp.inmobi.com
 127.0.0.1 sdkm.w.inmobi.com
@@ -8626,6 +8693,13 @@
 127.0.0.1 cdn.millennialmedia.com
 127.0.0.1 images.millennialmedia.com
 127.0.0.1 millennialmedia.com
+127.0.0.1 c.minisplat.cn
+127.0.0.1 c1.minisplat.cn
+127.0.0.1 l.minisplat.cn
+127.0.0.1 o.minisplat.cn
+127.0.0.1 u0.s.minisplat.cn
+127.0.0.1 u1.s.minisplat.cn
+127.0.0.1 u2.s.minisplat.cn
 127.0.0.1 api.moogos.com
 127.0.0.1 c3.moogos.com
 127.0.0.1 cdn.moogos.com
@@ -8644,6 +8718,9 @@
 127.0.0.1 img-ad.oupeng.com
 127.0.0.1 r.bxb.oupeng.com
 127.0.0.1 startup.oupeng.com
+127.0.0.1 zixun.oupeng.com
+127.0.0.1 img.zixun.oupeng.com
+127.0.0.1 c.adbxb.cn
 127.0.0.1 opgirl-tmp.adbxb.cn
 127.0.0.1 ip2.pxene.com
 127.0.0.1 cdn.jesgoo.com
@@ -8665,10 +8742,13 @@
 127.0.0.1 trace.rtbasia.com
 127.0.0.1 m.soquair.com
 127.0.0.1 t.soquair.com
+127.0.0.1 cm.stg8.com
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 tapjoy.cn
 127.0.0.1 s.trafficjam.cn  
 127.0.0.1 sdk.cdnmaster.com
+127.0.0.1 js.union-wifi.com
+127.0.0.1 rcv.union-wifi.com
 127.0.0.1 jzkapp.com
 127.0.0.1 t1.jzkapp.com
 127.0.0.1 t2.jzkapp.com
@@ -8703,18 +8783,17 @@
 127.0.0.1 lds.lenovomm.com
 127.0.0.1 mb.lenovomm.com
 127.0.0.1 susapi.lenovomm.com
-127.0.0.1 upush.meizu.com
-127.0.0.1 api-push.meizu.com
-127.0.0.1 api-flow.flyme.cn
 127.0.0.1 api-game.meizu.com
-127.0.0.1 openapi-news.meizu.com
-127.0.0.1 t-e.flyme.cn
-127.0.0.1 t-flow.flyme.cn
+127.0.0.1 api-push.meizu.com
 127.0.0.1 compaign.meizu.com
+127.0.0.1 game.res.meizu.com
+127.0.0.1 openapi-news.meizu.com
 127.0.0.1 tongji-res1.meizu.com
 127.0.0.1 tongji.meizu.com
-127.0.0.1 game.res.meizu.com
 127.0.0.1 upush.res.meizu.com
+127.0.0.1 api-flow.flyme.cn
+127.0.0.1 t-e.flyme.cn
+127.0.0.1 t-flow.flyme.cn
 127.0.0.1 adfuture.cn
 127.0.0.1 bigdata.adfuture.cn
 127.0.0.1 folder.adfuture.cn
@@ -8726,6 +8805,7 @@
 127.0.0.1 folder.adsunflower.com
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 folder.advmob.cn
+127.0.0.1 andmlbf.tj.ijinshan.com
 127.0.0.1 cdnimg.liehu.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
 127.0.0.1 dl.union.ijinshan.com
@@ -8733,6 +8813,7 @@
 127.0.0.1 pop.sjk.ijinshan.com
 127.0.0.1 rcmd.pop.ijinshan.com
 127.0.0.1 rcv.mobad.ijinshan.com
+127.0.0.1 sdk.mobad.ijinshan.com
 127.0.0.1 ws.ksmobile.net
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 beha.ksmobile.com
@@ -8770,6 +8851,7 @@
 127.0.0.1 openapi.particlenews.com
 127.0.0.1 o.go2yd.com
 127.0.0.1 s.go2yd.com
+127.0.0.1 i1.go2yd.com
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
 127.0.0.1 a.mini.eastday.com
@@ -8871,6 +8953,7 @@
 127.0.0.1 www.feixin2.com
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
+127.0.0.1 bj.bcebos.com
 127.0.0.1 dd713.bj.bcebos.com
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 lottery.kuaiya.cn
@@ -9253,6 +9336,19 @@
 127.0.0.1 v.jtxh.net
 127.0.0.1 www.3jhm.com
 127.0.0.1 njs.hcm94alliance.com
+127.0.0.1 cpv-ads.ggytc.com
+127.0.0.1 p2.hyz86.com 
+127.0.0.1 um29.com
+127.0.0.1 m.hascosafety.com
+127.0.0.1 js.xxcgdq.com
+127.0.0.1 js883.njqunyi.com
+127.0.0.1 t2.ugg66.com
+127.0.0.1 c.ugg66.com
+127.0.0.1 s.if1512.com
+127.0.0.1 cs.xitao3.com
+127.0.0.1 wap.txwdn.com
+127.0.0.1 sj.ggymob.top
+127.0.0.1 cp.ggyapp.com
 127.0.0.1 js.zgyemy.com
 127.0.0.1 code.guomob.com
 127.0.0.1 b99u.top
@@ -9336,7 +9432,6 @@
 127.0.0.1 do.apkdo.com
 127.0.0.1 img1.pszyzxh.org
 127.0.0.1 js3555.alitianxia168.com
-127.0.0.1 js883.yongkang6.com:81
 127.0.0.1 jump2.pszyzxh.org
 127.0.0.1 kt.kt220.com
 127.0.0.1 m.kt0731.com
@@ -9885,7 +9980,10 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 127.0.0.1 m1268.oadz.com
+127.0.0.1 1.win7china.com
+127.0.0.1 2.win7china.com
 127.0.0.1 bdjs.jb51.net
+127.0.0.1 files.jb51.net
 127.0.0.1 js.mumayi.net
 127.0.0.1 js-1.pchome.net
 127.0.0.1 stat.pchome.net
@@ -10214,6 +10312,7 @@
 127.0.0.1 v2.res.log.hunantv.com
 127.0.0.1 x.da.hunantv.com
 127.0.0.1 y.da.hunantv.com
+127.0.0.1 pcaliyun.res.mgtv.com
 127.0.0.1 g.wan.mgtv.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 s.mini.kuaibo.com
@@ -10316,7 +10415,10 @@
 127.0.0.1 hudong.pl.youku.com
 127.0.0.1 m.yes.youku.com
 127.0.0.1 miaozhen.atm.youku.com
+127.0.0.1 p.l.youku.com
 127.0.0.1 player.lstat.youku.com
+127.0.0.1 r.l.youku.com
+127.0.0.1 reply.lomark.cn
 127.0.0.1 static.atm.youku.com
 127.0.0.1 v.l.youku.com
 127.0.0.1 v2html.atm.youku.com
@@ -10326,7 +10428,6 @@
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 vid.atm.youku.com
-127.0.0.1 reply.lomark.cn
 127.0.0.1 url.222bz.com
 127.0.0.1 cf.37cs.com
 127.0.0.1 p.99mssj.com
@@ -10532,6 +10633,11 @@
 127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 x.infzm.com
 127.0.0.1 ad.jiemian.com
+127.0.0.1 click.focusad.cn
+127.0.0.1 finead.cn
+127.0.0.1 www.finead.cn
+127.0.0.1 fengche.cpv6.com
+127.0.0.1 www.cpv6.com
 127.0.0.1 pmm.people.com.cn
 127.0.0.1 sgg.southcn.com
 127.0.0.1 ad.thepaper.cn
@@ -10556,11 +10662,6 @@
 127.0.0.1 interactive.huanqiu.com
 127.0.0.1 go.util.zlibs.com
 127.0.0.1 a1.peoplecdn.cn
-127.0.0.1 click.focusad.cn
-127.0.0.1 finead.cn
-127.0.0.1 www.finead.cn
-127.0.0.1 fengche.cpv6.com
-127.0.0.1 www.cpv6.com
 127.0.0.1 x.vamaker.com
 127.0.0.1 newspage.xilu.com
 127.0.0.1 embed.xinhuanet.com
@@ -11196,10 +11297,13 @@
 127.0.0.1 mr.da.netease.com
 127.0.0.1 rd.da.netease.com
 127.0.0.1 www.qchannel04.cn
+127.0.0.1 2345api.dftoutiao.com
 127.0.0.1 imgwx3.2345.com
+127.0.0.1 houtai.2345.com
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 union2.50bang.org
+127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
@@ -11221,6 +11325,9 @@
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 tf.360.cn
+127.0.0.1 mbrowser.news.haosou.com
+127.0.0.1 mbrowser.news.so.com
+127.0.0.1 mbs.hao.360.cn
 127.0.0.1 ad.huajiao.com
 127.0.0.1 sh.qihoo.com
 127.0.0.1 s.qhupdate.com
@@ -11278,6 +11385,7 @@
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 vamaker.cm.admaster.com.cn
 127.0.0.1 vletv.admaster.com.cn
+127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vyk.admaster.com.cn
@@ -11419,6 +11527,7 @@
 127.0.0.1 re.taobao.com
 127.0.0.1 simba.m.taobao.com
 127.0.0.1 temai.taobao.com
+127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 tns.simba.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 click.aliyun.com
@@ -11510,15 +11619,16 @@
 127.0.0.1 rigel.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 adscdn.baidu.com
+127.0.0.1 api.cpu.baidu.com
 127.0.0.1 api.share.baidu.com
 127.0.0.1 bce.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 cbjs.baidu.com
 127.0.0.1 cm.baidu.com
-127.0.0.1 cpu.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 cpro.baidu.com
+127.0.0.1 cpu.baidu.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 eclick.baidu.com
@@ -11539,6 +11649,11 @@
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 zhanzhang.baidu.com
+127.0.0.1 sp0.baidu.com
+127.0.0.1 sp1.baidu.com
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
 127.0.0.1 baichuan.baidu.com
 127.0.0.1 cm.baichuan.baidu.com
 127.0.0.1 click.bes.baidu.com
@@ -11550,6 +11665,9 @@
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 cbjslog.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 als.baidu.com
+127.0.0.1 afd.baidu.com
+127.0.0.1 mbrowser.bdstatic.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api0.tuisong.baidu.com
 127.0.0.1 api1.tuisong.baidu.com
@@ -11642,6 +11760,10 @@
 127.0.0.1 d.emarbox.com
 127.0.0.1 et.emarbox.com
 127.0.0.1 s.emarbox.com
+127.0.0.1 as.eqxiu.com
+127.0.0.1 da.eqxiu.com
+127.0.0.1 lib.eqh5.com
+127.0.0.1 res1.eqh5.com
 127.0.0.1 cm.fastapi.net
 127.0.0.1 g.fastapi.net
 127.0.0.1 l.fastapi.net
@@ -11729,7 +11851,6 @@
 127.0.0.1 cm.e.qq.com
 127.0.0.1 d3g.qq.com
 127.0.0.1 e.qq.com
-127.0.0.1 mi.gdt.qq.com
 127.0.0.1 mini2015.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 pingtcss.qq.com
@@ -11746,9 +11867,11 @@
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 analy.qq.com
-127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 rm.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
+127.0.0.1 win.gdt.qq.com
 127.0.0.1 updatecenter.qq.com
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 aeventlog.beacon.qq.com
@@ -11758,17 +11881,20 @@
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 adfilter.imtt.qq.com
-127.0.0.1 adsolution.imtt.qq.com
-127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 adsense.html5.qq.com
+127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 cooperation.html5.qq.com
 127.0.0.1 game.html5.qq.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
+127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 novelsns.html5.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
 127.0.0.1 tpush.html5.qq.com
+127.0.0.1 wup.imtt.qq.com
 127.0.0.1 zixuncooperation.html5.qq.com
+127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 creatim.qtmojo.cn
 127.0.0.1 wmcdn.qtmojo.cn
 127.0.0.1 1.qtmojo.com
@@ -11868,6 +11994,7 @@
 127.0.0.1 s.go.sohu.com
 127.0.0.1 t.go.sohu.com
 127.0.0.1 txt.go.sohu.com
+127.0.0.1 bazinga.mse.sogou.com
 127.0.0.1 brand.sogou.com
 127.0.0.1 bsiet.husky.sogou.com
 127.0.0.1 dsp.brand.sogou.com
@@ -11876,12 +12003,15 @@
 127.0.0.1 img.wan.sogou.com
 127.0.0.1 inte.sogou.com
 127.0.0.1 irnvf.lu.sogou.com
+127.0.0.1 vps.inte.sogou.com
 127.0.0.1 m.lu.sogou.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 p.lu.sogou.com
 127.0.0.1 pb.sogou.com
 127.0.0.1 vjoz.lu.sogou.com
 127.0.0.1 wangmeng.sogou.com
+127.0.0.1 rd.e.sogou.com
+127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 imp.optaim.com
 127.0.0.1 cap.touclick.com
@@ -12000,7 +12130,6 @@
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
-127.0.0.1 wa.gtimg.com
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 api.yuedu.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
@@ -12108,10 +12237,8 @@
 127.0.0.1 mo.atm.youku.com
 127.0.0.1 mobilemsg.youku.com
 127.0.0.1 mp.atm.youku.com
-127.0.0.1 p.l.youku.com
 127.0.0.1 passport-log.youku.com
 127.0.0.1 push.m.youku.com
-127.0.0.1 r.l.youku.com
 127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 s.p.youku.com
 127.0.0.1 sdk.api.gamex.mobile.youku.com
