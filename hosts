@@ -1,5 +1,5 @@
 ##################################################
-# Last updated: 2017-01-21
+# Last updated: 2017-01-30
 ##################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -102,12 +102,11 @@
 # Disqus End
 
 # Dropbox Start
-110.4.24.178	db.tt
-110.4.24.178	dropbox.com
-110.4.24.178	m.dropbox.com
-110.4.24.178	www.v.dropbox.com
-110.4.24.178	dl-debug.dropbox.com
-110.4.24.178	www.dropbox.com
+108.160.173.233	db.tt
+52.29.64.168	dropbox.com
+52.29.64.168	www.dropbox.com
+108.160.173.233	m.dropbox.com
+108.160.173.162	dl-debug.dropbox.com
 52.85.76.60	linux.dropbox.com
 108.160.172.225	d.dropbox.com
 108.160.172.225	d.v.dropbox.com
@@ -153,183 +152,116 @@
 # Dropbox End
 
 # DuckDuckGo Start
-46.51.216.186	duckduckgo.com
-46.51.216.186	www.duckduckgo.com
-46.51.216.186	ac.duckduckgo.com
-54.251.178.52	icons.duckduckgo.com
-54.251.178.52	images.duckduckgo.com
+50.18.192.250	duckduckgo.com
+50.18.192.250	www.duckduckgo.com
+50.18.192.250	ac.duckduckgo.com
+54.229.110.205	icons.duckduckgo.com
+54.229.110.205	images.duckduckgo.com
 96.45.83.209	help.duckduckgo.com
 # DuckDuckGo End
 
 # Facebook start
-157.240.0.35 m.me
-157.240.0.35 fb.com
-157.240.0.35 www.m.me
-157.240.0.35 www.fb.com
-157.240.0.35 h.fb.com
-157.240.0.35 h.facebook.com
-157.240.0.35 thefacebook.com
-157.240.0.35 www.thefacebook.com
-157.240.0.35 facebook.com
-157.240.0.35 www.facebook.com
-157.240.0.35 web.facebook.com
-157.240.0.35 www2.facebook.com
-157.240.0.35 m.facebook.com
-157.240.0.35 mbasic.facebook.com
-157.240.0.35 badge.facebook.com
-157.240.0.35 developer.facebook.com
-157.240.0.35 c.facebook.com
-157.240.0.35 touch.facebook.com
-157.240.0.35 apps.facebook.com
-157.240.0.35 upload.facebook.com
-157.240.0.35 secure.facebook.com
-157.240.0.35 l.facebook.com
-157.240.0.35 zh-cn.facebook.com
-157.240.0.35 zh-hk.facebook.com
-157.240.0.35 zh-tw.facebook.com
-157.240.0.35 l.facebook.com
-157.240.0.35 lm.facebook.com
-157.240.0.35 b-api.facebook.com
-157.240.0.35 b-graph.facebook.com
-157.240.0.35 rupload.facebook.com
-157.240.0.35 login.facebook.com
-157.240.0.35 graph.facebook.com
-157.240.0.35 ssl.facebook.com
-157.240.0.35 vupload.facebook.com
-157.240.0.35 vupload2.vvv.facebook.com
-157.240.0.35 api.facebook.com
-157.240.0.35 api-read.facebook.com
-157.240.0.35 attachments.facebook.com
-157.240.0.35 developers.facebook.com
-157.240.0.35 check4.facebook.com
-157.240.0.35 check6.facebook.com
-157.240.0.35 code.facebook.com
-157.240.0.35 connect.facebook.com
-157.240.0.35 scontent.facebook.com
-157.240.0.35 pixel.facebook.com
-157.240.0.35 star.c10r.facebook.com
-157.240.0.35 star.facebook.com
-157.240.0.35 messenger.com
-157.240.0.35 cdn.fbsbx.com
-157.240.0.35 www.messenger.com
-157.240.0.35 attachment.fbsbx.com
-157.240.0.35 zh-cn.messenger.com
-157.240.0.35 zh-hk.messenger.com
-157.240.0.35 zh-tw.messenger.com
-157.240.0.35 edge-chat.messenger.com
-157.240.0.35 edge-chat.facebook.com
-157.240.0.35 0-edge-chat.messenger.com
-157.240.0.35 1-edge-chat.messenger.com
-157.240.0.35 2-edge-chat.messenger.com
-157.240.0.35 3-edge-chat.messenger.com
-157.240.0.35 4-edge-chat.messenger.com
-157.240.0.35 5-edge-chat.messenger.com
-157.240.0.35 6-edge-chat.messenger.com
-157.240.0.35 7-edge-chat.messenger.com
-157.240.0.35 8-edge-chat.messenger.com
-157.240.0.35 9-edge-chat.messenger.com
-157.240.0.35 0-edge-chat.facebook.com
-157.240.0.35 1-edge-chat.facebook.com
-157.240.0.35 2-edge-chat.facebook.com
-157.240.0.35 3-edge-chat.facebook.com
-157.240.0.35 4-edge-chat.facebook.com
-157.240.0.35 5-edge-chat.facebook.com
-157.240.0.35 6-edge-chat.facebook.com
-157.240.0.35 bigzipfiles.facebook.com
-157.240.0.35 connect.facebook.net
-31.13.95.35 ent-a.xx.fbcdn.net
-31.13.95.35 ent-b.xx.fbcdn.net
-31.13.95.35 ent-c.xx.fbcdn.net
-31.13.95.35 ent-e.xx.fbcdn.net
+157.240.0.17	fb.me
+157.240.0.17	facebook.com
+157.240.0.17	www.facebook.com
+157.240.0.17	m.facebook.com
+157.240.0.17	mqtt.facebook.com
+157.240.0.17	mqtt-mini.facebook.com
+157.240.0.17	business.facebook.com
+157.240.0.17	s-static.ak.facebook.com
+23.76.153.42	static.ak.facebook.com
+23.76.153.42	b.static.ak.facebook.com
+157.240.0.17	graph.facebook.com
+157.240.0.17	ssl.facebook.com
+157.240.0.17	api.facebook.com
+157.240.0.17	secure.facebook.com
+157.240.0.17	zh-cn.facebook.com
+157.240.0.17	l.facebook.com
+157.240.0.17	login.facebook.com
+157.240.0.17	attachments.facebook.com
+157.240.0.17	touch.facebook.com
+157.240.0.17	apps.facebook.com
+157.240.0.17	upload.facebook.com
+157.240.0.17	developers.facebook.com
+157.240.0.17	beta-chat-01-05-ash3.facebook.com
+157.240.0.17	channel-ecmp-05-ash3.facebook.com
+157.240.0.17	channel-staging-ecmp-05-ash3.facebook.com
+157.240.0.17	channel-testing-ecmp-05-ash3.facebook.com
+157.240.0.17	0-edge-chat.facebook.com
+157.240.0.17	1-edge-chat.facebook.com
+157.240.0.17	2-edge-chat.facebook.com
+157.240.0.17	3-edge-chat.facebook.com
+157.240.0.17	4-edge-chat.facebook.com
+157.240.0.17	5-edge-chat.facebook.com
+157.240.0.17	6-edge-chat.facebook.com
+157.240.0.17	api-read.facebook.com
+157.240.0.17	bigzipfiles.facebook.com
+157.240.0.17	check4.facebook.com
+157.240.0.17	check6.facebook.com
+157.240.0.17	code.facebook.com
+157.240.0.17	connect.facebook.com
+157.240.0.17	edge-chat.facebook.com
+157.240.7.16	edge-mqtt.facebook.com
+157.240.0.17	pixel.facebook.com
+157.240.0.17	star.c10r.facebook.com
+157.240.0.17	star.facebook.com
+157.240.0.17	zh-tw.facebook.com
+157.240.0.17	b-api.facebook.com
+157.240.0.17	b-graph.facebook.com
+157.240.0.17	orcart.facebook.com
+157.240.0.17	s-static.facebook.com
+157.240.0.17	vupload.facebook.com
+157.240.0.17	vupload2.facebook.com
+157.240.0.17	d.facebook.com
+157.240.0.17	fbcdn.net
+157.240.0.17	static.xx.fbcdn.net
+157.240.0.17	scontent.xx.fbcdn.net
+157.240.0.17	scontent-a.xx.fbcdn.net
+157.240.0.17	scontent-b.xx.fbcdn.net
+157.240.0.17	scontent-c.xx.fbcdn.net
+157.240.0.17	scontent-d.xx.fbcdn.net
+157.240.0.17	scontent-e.xx.fbcdn.net
+157.240.0.17	scontent-mxp.xx.fbcdn.net
+157.240.0.17	scontent-a-lax.xx.fbcdn.net
+157.240.0.17	scontent-a-sin.xx.fbcdn.net
+157.240.0.17	scontent-b-lax.xx.fbcdn.net
+157.240.0.17	scontent-b-sin.xx.fbcdn.net
+157.240.0.17	ent-a.xx.fbcdn.net
+157.240.0.17	ent-b.xx.fbcdn.net
+157.240.0.17	ent-c.xx.fbcdn.net
+157.240.0.17	ent-d.xx.fbcdn.net
+157.240.0.17	ent-e.xx.fbcdn.net
+23.207.122.24	s-external.ak.fbcdn.net
+23.34.45.177	s-static.ak.fbcdn.net
+157.240.0.17	static.thefacebook.com
+157.240.0.17	attachment.fbsbx.com
+157.240.0.17	staticxx.facebook.com
+157.240.0.17	connect.facebook.net
 192.0.78.13	live.fb.com
 192.0.78.13	work.fb.com
+192.0.78.13	techprep.fb.com
 192.0.78.13	nonprofits.fb.com
-192.0.78.13 techprep.fb.com
 192.0.78.13	managingbias.fb.com
 192.0.78.13	rightsmanager.fb.com
 192.0.78.13	instantarticles.fb.com
 192.0.66.2	messengerplatform.fb.com
 199.201.64.67	threatexchange.fb.com
-31.13.95.6 snaptu-z.facebook.com
-31.13.95.6 snaptu-p1.facebook.com
-31.13.95.40 snaptu-p2.facebook.com
-31.13.69.203 external.xx.fbcdn.net
-31.13.69.203 staticxx.facebook.com
-31.13.69.203 static.xx.fbcdn.net
-31.13.69.203 scontent.xx.fbcdn.net
-31.13.69.203 scontent-a.xx.fbcdn.net
-31.13.69.203 scontent-b.xx.fbcdn.net
-31.13.69.203 scontent-c.xx.fbcdn.net
-31.13.70.14  video.xx.fbcdn.net
-157.240.0.35 static.facebook.com
-157.240.0.35 s-static.facebook.com
-157.240.0.35 static.thefacebook.com
-173.252.105.21 d.facebook.com
-157.240.0.35	m.facebook.com
-157.240.0.35    mqtt.facebook.com
-157.240.0.35	mqtt-mini.facebook.com
-157.240.0.35	business.facebook.com
-157.240.0.35    orcart.facebook.com
-157.240.0.35    edge-mqtt.facebook.com
-23.48.141.243 s-external.ak.fbcdn.net
-23.48.129.16 s-static.ak.fbcdn.net
-23.48.129.16 s-static.ak.facebook.com
-203.78.36.36 static.ak.facebook.com
-203.78.36.36 b.static.ak.facebook.com
-203.78.36.36 fbcdn-video-a.akamaihd.net
-203.78.36.36 creative.ak.fbcdn.net
-203.78.36.36 platform.ak.fbcdn.net
-203.78.36.36 profile.ak.fbcdn.net
-203.78.36.36 external.ak.fbcdn.net
-203.78.36.36 vthumb.ak.fbcdn.net
-203.78.36.36 b.static.ak.fbcdn.net
-203.78.36.36 static.ak.fbcdn.net
-203.78.36.36 photos-a.ak.fbcdn.net
-203.78.36.36 photos-b.ak.fbcdn.net
-203.78.36.36 photos-c.ak.fbcdn.net
-203.78.36.36 photos-e.ak.fbcdn.net
-203.78.36.36 photos-f.ak.fbcdn.net
-203.78.36.36 photos-g.ak.fbcdn.net
-203.78.36.36 photos-h.ak.fbcdn.net
-203.78.36.36 fbstatic-a.akamaihd.net
-203.78.36.36 fbexternal-a.akamaihd.net
-203.78.36.36 fbcdn-vthumb-a.akamaihd.net
-203.78.36.36 fbcdn-dragon-a.akamaihd.net
-203.78.36.36 fbcdn-creative-a.akamaihd.net
-203.78.36.36 fbcdn-profile-a.akamaihd.net
-203.78.36.36 fbcdn-photos-a.akamaihd.net
-203.78.36.36 fbcdn-photos-a-a.akamaihd.net
-203.78.36.36 fbcdn-photos-b-a.akamaihd.net
-203.78.36.36 fbcdn-photos-c-a.akamaihd.net
-203.78.36.36 fbcdn-photos-d-a.akamaihd.net
-203.78.36.36 fbcdn-photos-e-a.akamaihd.net
-203.78.36.36 fbcdn-photos-f-a.akamaihd.net
-203.78.36.36 fbcdn-photos-g-a.akamaihd.net
-203.78.36.36 fbcdn-photos-h-a.akamaihd.net
-203.78.36.36 fbcdn-sphotos-a-a.akamaihd.net
-203.78.36.36 fbcdn-sphotos-b-a.akamaihd.net
-203.78.36.36 fbcdn-sphotos-c-a.akamaihd.net
-203.78.36.36 fbcdn-sphotos-d-a.akamaihd.net
-203.78.36.36 fbcdn-sphotos-e-a.akamaihd.net
-203.78.36.36 fbcdn-sphotos-f-a.akamaihd.net
-203.78.36.36 fbcdn-sphotos-g-a.akamaihd.net
-203.78.36.36 fbcdn-sphotos-h-a.akamaihd.net
-203.78.36.36 fbcdn-video-a-a.akamaihd.net
-203.78.36.36 fbcdn-video-b-a.akamaihd.net
-203.78.36.36 fbcdn-video-c-a.akamaihd.net
-203.78.36.36 fbcdn-video-d-a.akamaihd.net
-203.78.36.36 fbcdn-video-e-a.akamaihd.net
-203.78.36.36 fbcdn-video-f-a.akamaihd.net
-203.78.36.36 fbcdn-video-g-a.akamaihd.net
-203.78.36.36 fbcdn-video-h-a.akamaihd.net
-203.78.36.36 fbcdn-video-i-a.akamaihd.net
-203.78.36.36 fbcdn-video-g-a.akamaihd.net
-203.78.36.36 fbcdn-video-k-a.akamaihd.net
-203.78.36.36 fbcdn-video-l-a.akamaihd.net
-203.78.36.36 fbcdn-video-m-a.akamaihd.net
-203.78.36.36 fbcdn-video-n-a.akamaihd.net
-203.78.36.36 fbcdn-video-o-a.akamaihd.net
-203.78.36.36 fbcdn-video-p-a.akamaihd.net
+157.240.7.21	video.xx.fbcdn.net
+184.28.188.10	fbcdn-sphotos-b-a.akamaihd.net
+184.28.188.10	vthumb.ak.fbcdn.net
+184.28.188.10	photos-a.ak.fbcdn.net
+184.28.188.10	photos-b.ak.fbcdn.net
+184.28.188.10	photos-c.ak.fbcdn.net
+184.28.188.10	photos-d.ak.fbcdn.net
+184.28.188.10	photos-e.ak.fbcdn.net
+184.28.188.10	photos-f.ak.fbcdn.net
+184.28.188.10	photos-g.ak.fbcdn.net
+184.28.188.10	photos-h.ak.fbcdn.net
+184.28.188.10	creative.ak.fbcdn.net
+184.28.188.10	external.ak.fbcdn.net
+184.28.188.10	b.static.ak.fbcdn.net
+184.28.188.10	static.ak.fbcdn.net
+184.28.188.10	profile.ak.fbcdn.net
 # Facebook end
 
 # FlipBoard start
@@ -603,6 +535,7 @@
 61.91.161.217	calendar.google.com
 61.91.161.217	checkout.google.com
 61.91.161.217	wallet.google.com
+61.91.161.217   landing.google.com
 61.91.161.217	chrome.com
 61.91.161.217	www.chrome.com
 61.91.161.217	developer.chrome.com
@@ -638,6 +571,7 @@
 61.91.161.217	boringssl.googlesource.com
 108.177.97.82	tensorflow.googlesource.com
 61.91.161.217	gerrit.googlesource.com
+61.91.161.217	gerrit-review.googlesource.com
 61.91.161.217	chromium.googlesource.com
 61.91.161.217	kernel.googlesource.com
 61.91.161.217	android-review.googlesource.com
@@ -894,7 +828,7 @@
 61.91.161.217	realtimesupport.clients6.google.com
 61.91.161.217	360suite.google.com
 61.91.161.217	optimize.google.com
-216.58.203.85	attribution.google.com
+216.58.206.14	attribution.google.com
 61.91.161.217	audiencecenter.google.com
 61.91.161.217	datastudio.google.com
 61.91.161.217	studykit.google.com
@@ -2937,10 +2871,14 @@
 # HumbleBundle End
 
 # imgur Start
-103.245.224.193	imgur.com
-103.245.224.193	www.imgur.com
-103.245.224.193	i.imgur.com
-103.245.224.193	s.imgur.com
+151.101.100.193	imgur.com
+151.101.100.193	m.imgur.com
+151.101.100.193	api.imgur.com
+151.101.100.193	www.imgur.com
+151.101.100.193	store.imgur.com
+151.101.100.193	s.imgur.com
+151.101.100.193	p.imgur.com
+151.101.100.193	i.imgur.com
 # imgur End
 
 # Instagram Start
@@ -3379,6 +3317,9 @@
 # OneDrive Start
 204.79.197.217	onedrive.live.com
 134.170.107.72	skyapi.onedrive.live.com
+204.79.197.217	skyweb.skyprod.akadns.net
+204.79.197.217	webedgegeo.skyprod.akadns.net
+13.107.42.11	outlook.live.com
 # OneDrive End
 
 # Psiphon Start
@@ -3435,7 +3376,7 @@
 149.154.167.120	web.telegram.org
 # telegram end
 
-+# Tor Start
+# Tor Start
 154.35.132.70	torproject.org
 154.35.132.70	www.torproject.org
 82.195.75.101	archive.torproject.org
@@ -3531,38 +3472,38 @@
 # Tumblr End
 
 # Twitter Start
-110.4.24.178	twitter.com
-110.4.24.178	www.twitter.com
-110.4.24.178	t.co
-110.4.24.178	api.twitter.com
-110.4.24.178	mobile.twitter.com
-110.4.24.178	support.twitter.com
-110.4.24.178	upload.twitter.com
-110.4.24.178	tweetdeck.twitter.com
-110.4.24.178	syndication.twitter.com
-110.4.24.178	platform.twitter.com
-110.4.24.178	about.twitter.com
-110.4.24.178	blog.twitter.com
-110.4.24.178	betastream.twitter.com
-110.4.24.178	dev.twitter.com
-110.4.24.178	pic.twitter.com
-110.4.24.178	search.twitter.com
-110.4.24.178	status.twitter.com
-110.4.24.178	assets0.twitter.com
-110.4.24.178	assets1.twitter.com
-110.4.24.178	assets2.twitter.com
-110.4.24.178	assets3.twitter.com
-110.4.24.178	assets4.twitter.com
-110.4.24.178	static.twitter.com
-110.4.24.178	help.twitter.com
-110.4.24.178	ton.twitter.com
-110.4.24.178	s.twitter.com
-110.4.24.178	analytics.twitter.com
-110.4.24.178	urls-real.api.twitter.com
-110.4.24.178	userstream.twitter.com
-110.4.24.178	sitestream.twitter.com
-110.4.24.178	stream.twitter.com
-110.4.24.178	tdweb.twitter.com
+104.244.45.1	twitter.com
+104.244.45.1	www.twitter.com
+185.45.5.47	t.co
+104.244.45.1	api.twitter.com
+104.244.45.1	mobile.twitter.com
+104.244.45.1	support.twitter.com
+104.244.45.1	upload.twitter.com
+104.244.45.1	tweetdeck.twitter.com
+104.244.45.1	syndication.twitter.com
+104.244.45.1	platform.twitter.com
+104.244.45.1	about.twitter.com
+104.244.45.1	blog.twitter.com
+104.244.45.1	betastream.twitter.com
+104.244.45.1	dev.twitter.com
+104.244.45.1	pic.twitter.com
+104.244.45.1	search.twitter.com
+104.244.45.1	status.twitter.com
+104.244.45.1	assets0.twitter.com
+104.244.45.1	assets1.twitter.com
+104.244.45.1	assets2.twitter.com
+104.244.45.1	assets3.twitter.com
+104.244.45.1	assets4.twitter.com
+104.244.45.1	static.twitter.com
+104.244.45.1	help.twitter.com
+104.244.45.1	ton.twitter.com
+104.244.45.1	s.twitter.com
+104.244.45.1	analytics.twitter.com
+104.244.45.1	urls-real.api.twitter.com
+104.244.45.1	userstream.twitter.com
+104.244.45.1	sitestream.twitter.com
+104.244.45.1	stream.twitter.com
+104.244.45.1	tdweb.twitter.com
 173.236.110.98	twitpic.com
 173.236.110.98	m1.twitpic.com
 173.236.110.98	web1.twitpic.com
@@ -3598,10 +3539,10 @@
 104.244.42.196	web.tweetdeck.com
 104.244.42.196	www.tweetdeck.com
 104.244.42.196	downloads.tweetdeck.com
-110.4.24.178	cdn.syndication.twimg.com
-110.4.24.178	cdn.syndication.twitter.com
-110.4.24.178	apps.twitter.com
-110.4.24.178	debates.twitter.com
+104.244.43.17	cdn.syndication.twimg.com
+104.244.43.40	cdn.syndication.twitter.com
+104.244.45.1	apps.twitter.com
+104.244.45.1	debates.twitter.com
 # Twitter End
 
 # Vimeo Start
@@ -3627,80 +3568,7 @@
 # Wikipedia End
 
 # Yahoo Start
-192.0.79.32	code.flickr.com
-119.161.10.150	api.flickr.com
-202.43.194.205	c5.ah.yahoo.com
-119.160.254.215	d.yimg.com
-106.10.136.195	de.yahoo.com
-119.160.254.215	e.yimg.com
-98.139.21.169	edit.yahoo.com
-69.147.88.13	c.staticflickr.com
-69.147.88.13	c1.staticflickr.com
-69.147.88.13	c2.staticflickr.com
-69.147.88.13	c3.staticflickr.com
-69.147.88.13	c4.staticflickr.com
-69.147.88.13	c5.staticflickr.com
-69.147.88.13	c6.staticflickr.com
-69.147.88.13	c7.staticflickr.com
-69.147.88.13	c8.staticflickr.com
-69.147.88.13	c9.staticflickr.com
-106.10.137.23	farm1.staticflickr.com
-106.10.137.23	farm2.staticflickr.com
-106.10.137.23	farm3.staticflickr.com
-106.10.137.23	farm4.staticflickr.com
-106.10.137.23	farm5.staticflickr.com
-106.10.137.23	farm6.staticflickr.com
-106.10.137.23	farm7.staticflickr.com
-106.10.137.23	farm8.staticflickr.com
-106.10.137.23	farm9.staticflickr.com
-63.250.200.72	bf1.farm3.staticflickr.com
-63.250.200.72	bf1.farm6.staticflickr.com
-63.250.200.72	bf1.farm7.staticflickr.com
-74.6.47.80	gq1.farm3.staticflickr.com
-74.6.47.80	gq1.farm4.staticflickr.com
-74.6.47.80	gq1.farm5.staticflickr.com
-74.6.47.80	gq1.farm6.staticflickr.com
-98.138.4.56	ne1.farm7.staticflickr.com
-183.177.81.73	flickr.com
-106.10.137.175	geo.query.yahoo.com
-217.12.13.41	geo.yahoo.com
-203.84.197.27	finance.yahoo.com
-203.84.197.27	lh.secure.yahoo.com
-121.101.144.112	hk.finance.yahoo.com
-27.123.201.252	tw.finance.yahoo.com
-119.160.254.215	h.yimg.com
-106.10.199.10	hk.news.yahoo.com
-106.10.138.240	hk.yahoo.com
-106.10.136.146	hsrd.yahoo.com
-106.10.193.20	hk-mg61.mail.yahoo.com
-119.160.254.215	l.yimg.com
-106.10.193.20	login.yahoo.com
-208.71.44.31	m.flickr.com
-106.10.193.20	mail.yahoo.com
-203.84.197.27	mg.mail.yahoo.com
-106.10.193.20	na.edit.yahoo.com
-106.10.193.20	open.login.yahoo.com
-216.39.54.12	overview.mail.yahoo.com
-119.160.254.215	p.yimg.com
-216.115.100.106	s.yimg.com
-119.160.254.215	s1.yimg.com
-106.10.193.20	sa.edit.yahoo.com
-208.71.44.31	secure.flickr.com
-106.10.199.11	heartbeat.flickr.com
-106.10.193.30	sp.analytics.yahoo.com
-106.10.137.23	static.flickr.com
-106.10.199.11	tw.news.yahoo.com
-106.10.138.240	tw.yahoo.com
-121.101.144.116	up.flickr.com
-204.0.5.34	us.js2.yimg.com
-106.10.138.240	us.yahoo.com
-183.177.81.73	www.flickr.com
-106.10.138.240	www.yahoo.com
-98.138.253.109	yahoo.com
-77.238.184.150	ying.com
-183.177.81.73	downloadr.flickr.com
-50.18.192.250	duckduckgo-owned-server.yahoo.net
-116.214.11.98	tw.mobi.yahoo.com
+
 # Yahoo End
 
 
@@ -6948,6 +6816,7 @@
 110.4.24.178 calendar.google.com
 110.4.24.178 checkout.google.com
 110.4.24.178 wallet.google.com
+110.4.24.178 landing.google.com
 110.4.24.178 www.chrome.com
 110.4.24.178 developer.chrome.com
 110.4.24.178 chrome.google.com
