@@ -8,14 +8,13 @@ Thanks racaljk 、 laodcn 、vokins。
 Some github Code：
  - vokins：https://github.com/vokins 、
  - laodcn：https://github.com/laodcn 、
- - racaljk：https://github.com/racaljk 
+ - racaljk：https://github.com/racaljk 、
+ - DannyWu：https://github.com/WUZHIQIANGX
  
 update from the Blog：
  - http://htcui.com/4938.html
  - http://igge.gq/265.html
  - http://51.ruyo.net/2016-hosts/
- - http://51.ruyo.net/2016-hosts/ (about youtube)
- - http://91ksj.com/networkshare/983.html
  - http://idannywu.com/hosts/.html
 
 ***
@@ -30,6 +29,6 @@ update
  - add : you can choose get the general hosts or the hosts_plus or reset your hosts file as you like(2016-10-05)
  - ps : the hosts_plus many cause not to normal Internet access.(2016-10-05)
  - nothing to do (2016-10-05~10-31)
- 
-
-                  
+- add the get_hosts3.vbs and the exe changed from the vbs.
+ - the hosts resources is from racaljk, vokins, DannyWu 's github.DownLoad them online.
+ - well, I admit it is very rude(2017-03-10)
