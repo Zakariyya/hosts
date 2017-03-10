@@ -3,12 +3,14 @@ for Test
 
 Get the hosts file online.
 ***
-Thanks racaljk 、 laodcn 、vokins 、DannyWu.
+Thanks racaljk 、 laodcn 、vokins 、DannyWu <br>
 Some github Code：
  - vokins：https://github.com/vokins 、
  - laodcn：https://github.com/laodcn 、
  - racaljk：https://github.com/racaljk 、
  - DannyWu：https://github.com/WUZHIQIANGX
+ - zsm2014：http://www.whlisound.com/hosts.txt
+  - http://bbs.kafan.cn/thread-1798022-1-1.html
  
 update from the Blog：
  - http://htcui.com/4938.html
