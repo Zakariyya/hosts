@@ -3,8 +3,7 @@ for Test
 
 Get the hosts file online.
 ***
-Thanks racaljk 、 laodcn 、vokins。
-
+Thanks racaljk 、 laodcn 、vokins 、DannyWu.
 Some github Code：
  - vokins：https://github.com/vokins 、
  - laodcn：https://github.com/laodcn 、
