@@ -33,9 +33,9 @@ update
 - add the get_hosts3.vbs and the exe changed from the vbs.
  - the hosts resources is from racaljk, vokins, DannyWu 's github.DownLoad them online.
  - well, I admit it is very rude(2017-03-10).
- - It's too slowly.(so ,want to kill this)
+ - It's too slowly.So ,want to kill this.(2017-03-20)
 - add the get_hosts-WU.vbs and the exe changed from the vbs.
- - the hosts resources is from DannyWu 's github.DownLoad them online.(it is a spare man)
+- the hosts resources is from DannyWu 's github.DownLoad them online.It is a spare man(2017-03-26)
  
  
  
