@@ -3,12 +3,11 @@ for Test
 
 Get the hosts file online.
 ***
-Thanks racaljk 、 laodcn 、vokins 、DannyWu <br>
+Thanks racaljk 、 laodcn 、vokins <br>
 Some github Code：
  - vokins：https://github.com/vokins 、
  - laodcn：https://github.com/laodcn 、
  - racaljk：https://github.com/racaljk 、
- - DannyWu：https://github.com/WUZHIQIANGX
  - zsm2014：http://www.whlisound.com/hosts.txt
   - http://bbs.kafan.cn/thread-1798022-1-1.html
  
@@ -16,7 +15,6 @@ update from the Blog：
  - http://htcui.com/4938.html
  - http://igge.gq/265.html
  - http://51.ruyo.net/2016-hosts/
- - http://idannywu.com/hosts/.html
 
 ***
 About the get_hosts.exe / get_hosts.vbs:
@@ -34,8 +32,6 @@ update
  - the hosts resources is from racaljk, vokins, DannyWu 's github.DownLoad them online.
  - well, I admit it is very rude(2017-03-10).
  - It's too slowly.So ,want to kill this.(2017-03-20)
-- add the get_hosts-WU.vbs and the exe changed from the vbs.
-- the hosts resources is from DannyWu 's github.DownLoad them online.It is a spare man(2017-03-26)
  
  
  
