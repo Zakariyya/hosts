@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-03-26
+# Last updated: 2017-04-01
 ###################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -51,11 +51,13 @@
 202.171.252.103 github-com.s3.amazonaws.com
 # Amazon AWS End
 # Archive Start
-202.171.252.103 archive.org
-202.171.252.103 web.archive.org
-202.171.252.103 www.archive.org
-202.171.252.103 ia802704.us.archive.org
-202.171.252.103 analytics.archive.org
+207.241.224.22	archive.org
+207.241.224.22	www.archive.org
+207.241.224.22	ia802704.us.archive.org
+207.241.224.22	analytics.archive.org
+207.241.226.190	web.archive.org
+207.241.225.186	web-beta.archive.org
+207.241.225.186	wwwb-sentry.us.archive.org
 # Archive End
 # Battle.NET Start
 12.129.206.133 enUS.patch.battle.net
@@ -307,7 +309,7 @@
 104.244.42.73 a3.twimg.com
 104.244.42.73 a4.twimg.com
 104.244.42.73 a5.twimg.com
-104.244.42.73 video.twimg.com
+104.244.43.103 video.twimg.com
 104.244.42.73 abs.twimg.com
 104.244.42.73 g.twimg.com
 104.244.42.73 o.twimg.com
@@ -447,6 +449,7 @@
 202.171.252.103 client2.google.com
 202.171.252.103 client4.google.com
 202.171.252.103 client6.google.com
+202.171.252.103 clients7.google.com
 202.171.252.103 classroom.google.com
 202.171.252.103 classroom.google.ca
 202.171.252.103 clouderrorreporting.clients6.google.com
@@ -489,6 +492,7 @@
 202.171.252.103 linkhelp.clients.google.com
 202.171.252.103 upload.clients.google.com
 202.171.252.103 myaccount.google.com
+202.171.252.103 opensource.google.com
 202.171.252.103 peering.google.com
 202.171.252.103 places.google.com
 202.171.252.103 pki.google.com
@@ -496,6 +500,7 @@
 202.171.252.103 script.google.com
 202.171.252.103 security.google.com
 202.171.252.103 services.google.com
+202.171.252.103 summerofcode.withgoogle.com
 202.171.252.103 store.google.com
 202.171.252.103 suggestqueries.google.com
 202.171.252.103 support.google.com
@@ -628,11 +633,13 @@
 202.171.252.103 android.googleblog.com
 202.171.252.103 android-developers.googleblog.com
 202.171.252.103 androidstudio.googleblog.com
+202.171.252.103 firebase.googleblog.com
 202.171.252.103 research.googleblog.com
 202.171.252.103 security.googleblog.com
 202.171.252.103 gmail.googleblog.com
 202.171.252.103 chrome.googleblog.com
 202.171.252.103 search.googleblog.com
+202.171.252.103 opensource.googleblog.com
 202.171.252.103 webmasters.googleblog.com
 202.171.252.103 maps.googleblog.com
 202.171.252.103 cloudplatform.googleblog.com
@@ -678,11 +685,14 @@
 202.171.252.103 googleforstudents.blogspot.com
 202.171.252.103 students.googleblog.com
 202.171.252.103 chrome.blogspot.com
+202.171.252.103 publicpolicy.googleblog.com
+202.171.252.103 googlepublicpolicy.blogspot.com
 202.171.252.103 googleadservices.com
 202.171.252.103 www.googleadservices.com
 202.171.252.103 google-latlong.blogspot.com
 202.171.252.103 insidesearch.blogspot.com
 202.171.252.103 googleadsdeveloper.blogspot.com
+202.171.252.103 googledevelopers.blogspot.com
 202.171.252.103 officialandroid.blogspot.com
 202.171.252.103 android-developers.blogspot.com
 202.171.252.103 android-developers.blogspot.hk
@@ -1201,6 +1211,7 @@
 202.171.252.103 accountsettingsmobile-pa.googleapis.com
 202.171.252.103 chart.apis.google.com
 202.171.252.103 googleapis.com
+202.171.252.103 storage.googleapis.com
 202.171.252.103 commondatastorage.googleapis.com
 202.171.252.103 www.googleapis.com
 202.171.252.103 ajax.googleapis.com
@@ -1214,6 +1225,7 @@
 202.171.252.103 khms0.googleapis.com
 202.171.252.103 khms1.googleapis.com
 202.171.252.103 maps.googleapis.com
+202.171.252.103 opensourceprojects-pa.googleapis.com
 202.171.252.103 origin-commondatastorage.googleapis.com
 216.58.221.144 commondatastorage.googleapis.com
 202.171.252.103 play.googleapis.com
