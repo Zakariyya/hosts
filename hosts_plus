@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-04-01
+# Last updated: 2017-04-07
 ###################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -758,6 +758,7 @@
 202.171.252.103 accounts.google.com.gi
 202.171.252.103 accounts.google.co.nz
 202.171.252.103 id.google.co.nz
+202.171.252.103 googlecode.com
 202.171.252.103 www.googlecode.com
 202.171.252.103 smarthosts.googlecode.com
 202.171.252.103 fuchsia.googlesource.com
@@ -772,6 +773,7 @@
 202.171.252.103 gwt.googlesource.com
 202.171.252.103 code.google.com
 202.171.252.103 uploads.code.google.com
+202.171.252.103 android.googlecode.com
 202.171.252.103 chromium.googlecode.com
 202.171.252.103 closure-library.googlecode.com
 202.171.252.103 earth-api-samples.googlecode.com
@@ -7841,7 +7843,7 @@
 # Modified hosts end
 
 #AD hosts Start
-#version=201704012259
+#version=201704062116
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -8531,6 +8533,7 @@
 127.0.0.1 mis.g.mi.com
 127.0.0.1 sg.a.stat.mi.com
 127.0.0.1 shenghuo.xiaomi.com
+127.0.0.1 api.comm.miui.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
@@ -8940,6 +8943,8 @@
 127.0.0.1 zpe.klre.18183.com
 127.0.0.1 adm.265g.com
 127.0.0.1 dev.tg.youxi.com
+127.0.0.1 y.3957957.com
+127.0.0.1 img.88ads.com
 127.0.0.1 gg.5173.com
 127.0.0.1 urchin.5173.com
 127.0.0.1 app.5211game.com
@@ -9469,6 +9474,7 @@
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
+127.0.0.1 m.ycsensornet.com
 127.0.0.1 lan.acwgf.com
 127.0.0.1 swappdl.duoyi.com
 127.0.0.1 sube.puwangkj.com
@@ -9551,6 +9557,8 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 m.shanghetrade.com
+127.0.0.1 e.shanghetrade.com
 127.0.0.1 m.meizhi999.com
 127.0.0.1 e.meizhi999.com
 127.0.0.1 e.hnctsm.com
@@ -9674,6 +9682,8 @@
 127.0.0.1 link.yida558.com
 127.0.0.1 s.175bar.com
 127.0.0.1 js.csxjys.com
+127.0.0.1 ee.shanghetrade.com
+127.0.0.1 mm.shanghetrade.com
 127.0.0.1 js.qdcode.com
 127.0.0.1 e.qdchunyu.com
 127.0.0.1 m.qdchunyu.com
@@ -9692,6 +9702,7 @@
 127.0.0.1 a.qindouxs.co
 127.0.0.1 b.qindouxs.co
 127.0.0.1 c.qindouxs.co
+127.0.0.1 yue.sqext.com
 127.0.0.1 da.hxspc.com
 127.0.0.1 download.350.com
 127.0.0.1 wudi.xdbwc.com
@@ -9728,6 +9739,7 @@
 127.0.0.1 sese.chmae.com
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 img.tcdxt.com
+127.0.0.1 s.zybpj.com
 127.0.0.1 www.esptj.com
 127.0.0.1 m.cnzzlink.com
 127.0.0.1 e.51jumintong.com
@@ -9756,6 +9768,7 @@
 127.0.0.1 tu.jstztk.com
 127.0.0.1 www.xiaoyq.com
 127.0.0.1 j.jqbee.com
+127.0.0.1 mm.nngft.com
 127.0.0.1 dm.fsyzcs.com
 127.0.0.1 js.cnscdj.com
 127.0.0.1 js7274.qsbz2011.com
@@ -9804,6 +9817,7 @@
 127.0.0.1 www.dimeiz.com
 127.0.0.1 www.thyysj.com
 127.0.0.1 wxmmh.net
+127.0.0.1 w.1lib.cn
 127.0.0.1 www.istage.com.cn
 127.0.0.1 www.number1cp.cn
 127.0.0.1 mememe.dlsjyj.com
@@ -9811,6 +9825,7 @@
 127.0.0.1 img2.xztkc.com
 127.0.0.1 dvygej.m.xs222.com
 127.0.0.1 sztyywk.m.xs222.com
+127.0.0.1 m.runiman.com
 127.0.0.1 e.cnzzlink.com
 127.0.0.1 tian.awkjs.com
 127.0.0.1 e.yidulive.net
@@ -9825,6 +9840,7 @@
 127.0.0.1 drc.d8qu.com
 127.0.0.1 drcc.d8qu.com
 127.0.0.1 kdv.d8qu.com
+127.0.0.1 y.xm9178.com
 127.0.0.1 www.xbzzzx.com
 127.0.0.1 y.dali517.com
 127.0.0.1 m.kmwqxqh.com
@@ -9957,6 +9973,8 @@
 127.0.0.1 lotraden.online
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
+127.0.0.1 js883.tongqing2015.com
+127.0.0.1 js89.dalianhengtai.com
 127.0.0.1 cacaca.sp96878.com
 127.0.0.1 ew16d.package12.com
 127.0.0.1 b99u.top
@@ -10361,6 +10379,10 @@
 127.0.0.1 fans.bestvogue.com
 127.0.0.1 ads2.contentabc.com
 127.0.0.1 js.lieqitianxia.cn
+127.0.0.1 cc.xaepgyy.com
+127.0.0.1 e.gythsg.com
+127.0.0.1 pic.tzgmy.com
+127.0.0.1 s.xdcqcyp.com
 127.0.0.1 vns800600.net
 127.0.0.1 www.yl850555.com
 127.0.0.1 www.8033bb.com
@@ -10440,6 +10462,7 @@
 127.0.0.1 i.xyqsnc.com
 127.0.0.1 kpwzxz.cn
 127.0.0.1 m.fxfssl.com
+127.0.0.1 in.zybpj.com
 127.0.0.1 rc.bbhtek.com
 127.0.0.1 s.bbhtek.com
 127.0.0.1 img.78dxc.com
@@ -10662,6 +10685,9 @@
 127.0.0.1 ssplog.geekwide.cn
 127.0.0.1 js.lpshl.com
 127.0.0.1 ad.mnt123.com
+127.0.0.1 i.51chengde.com
+127.0.0.1 t.faxinad.com
+127.0.0.1 a.198banjia.com
 127.0.0.1 feng.zzsx8.com
 127.0.0.1 rc.szfaq.com
 127.0.0.1 ppco.trwba.com
@@ -10760,6 +10786,7 @@
 127.0.0.1 adshow.it168.com
 127.0.0.1 stat.it168.com
 127.0.0.1 m1268.oadz.com
+127.0.0.1 ad.xxguan.cn
 127.0.0.1 1.win7china.com
 127.0.0.1 2.win7china.com
 127.0.0.1 bdjs.jb51.net
@@ -12142,6 +12169,7 @@
 127.0.0.1 2311.oadz.com
 127.0.0.1 a1662.oadz.com
 127.0.0.1 a2315.oadz.com
+127.0.0.1 a2397.oadz.com
 127.0.0.1 m1570.oadz.com
 127.0.0.1 m1612.oadz.com
 127.0.0.1 m947.oadz.com
@@ -12519,6 +12547,7 @@
 127.0.0.1 iqiyi.irs01.com
 127.0.0.1 viqiyi.admaster.com.cn
 127.0.0.1 iqiyi.m.cn.miaozhen.com
+127.0.0.1 nl.rcd.iqiyi.com
 127.0.0.1 api.cupid.ptqy.gitv.tv
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
 127.0.0.1 msg.ptqy.gitv.tv
@@ -12632,6 +12661,8 @@
 127.0.0.1 sdk.user.gamex.mobile.youku.com
 127.0.0.1 test.gamex.mobile.youku.com
 127.0.0.1 test.sdk.gamex.mobile.youku.com
+127.0.0.1 c.l.youku.com
+127.0.0.1 notify.youku.com
 127.0.0.1 cms.laifeng.com
 127.0.0.1 ld.kuaigames.com
 127.0.0.1 rd.kuaigames.com
@@ -12641,6 +12672,7 @@
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
+127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 ads.wasu.tv
 127.0.0.1 adwasu.wasu.tv
 127.0.0.1 adsystem.wasu.tv
@@ -12738,5 +12770,4 @@
 127.0.0.1 20170431.biz5.kankan.com
 127.0.0.1 20170431.logic.cpm.cm.kankan.com
 127.0.0.1 20170431.float.kankan.com
-
 #AD hosts End
