@@ -8,8 +8,11 @@ Some github Code：
  - vokins：https://github.com/vokins 、
  - laodcn：https://github.com/laodcn 、
  - racaljk：https://github.com/racaljk 、
- - zsm2014：http://www.whlisound.com/hosts.txt
+ - zsm2014：http://www.whlisound.com/hosts.txt (AD)
   - http://bbs.kafan.cn/thread-1798022-1-1.html
+ - scaffrey：https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts
+ - sy618：https://raw.githubusercontent.com/sy618/hosts/master/FQ
+ - 翻墙+去广告：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
  
 update from the Blog：
  - http://htcui.com/4938.html
@@ -32,6 +35,7 @@ update
  - the hosts resources is from racaljk, vokins, DannyWu 's github.DownLoad them online.
  - well, I admit it is very rude(2017-03-10).
  - It's too slowly.So ,want to kill this.(2017-03-20)
+- add the hosts of killAD(2017-06-16)
  
  
  
