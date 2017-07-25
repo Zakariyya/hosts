@@ -3,7 +3,7 @@ for Test
 
 Get the hosts file online.
 ***
-Thanks racaljk 、 laodcn 、vokins <br>
+Thanks racaljk 、 laodcn 、vokins 、sy618<br>
 Some github Code：
  - vokins：https://github.com/vokins 、
  - laodcn：https://github.com/laodcn 、
@@ -13,7 +13,10 @@ Some github Code：
  - scaffrey：https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts
  - sy618：https://raw.githubusercontent.com/sy618/hosts/master/FQ
  - 翻墙+去广告：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
- 
+ -google play:  https://raw.githubusercontent.com/sy618/hosts/master/p
+
+merge hosts：
+ - malaohu：https://github.com/malaohu/Merge-Public-Hosts
 update from the Blog：
  - http://htcui.com/4938.html
  - http://igge.gq/265.html
