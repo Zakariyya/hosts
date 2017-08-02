@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-07-19
+# Last updated: 2017-07-29
 ###################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -7323,6 +7323,7 @@
 162.125.32.5 api-d.dropbox.com
 162.125.32.13 api.v.dropbox.com
 162.125.32.13 api-notify.dropbox.com
+52.84.243.64 aem.dropbox.com
 162.125.1.8 api-content.dropbox.com
 162.125.2.5 api-content-photos.dropbox.com
 52.85.12.34 blogs.dropbox.com
@@ -7354,6 +7355,7 @@
 162.125.80.5 photos-6.dropbox.com
 162.125.80.5 photos-thumb.dropbox.com
 162.125.18.129 photos-thumb.x.dropbox.com
+162.125.2.3 paper.dropbox.com
 52.85.12.41 status.dropbox.com
 52.85.12.72 snapengage.dropbox.com
 162.125.2.6 dl.dropboxusercontent.com
