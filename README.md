@@ -9,15 +9,15 @@ Some github Code：
  - laodcn：https://github.com/laodcn 、
  - racaljk：https://github.com/racaljk 、
  - zsm2014：http://www.whlisound.com/hosts.txt (AD)
-  - http://bbs.kafan.cn/thread-1798022-1-1.html
+  - http://bbs.kafan.cn/thread-1798022-1-1.html
  - scaffrey：https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts
  - sy618：https://raw.githubusercontent.com/sy618/hosts/master/FQ
  - 翻墙+去广告：https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
- -google play:  https://raw.githubusercontent.com/sy618/hosts/master/p
+    -google play:  https://raw.githubusercontent.com/sy618/hosts/master/p
 
 merge hosts：
  - malaohu：https://github.com/malaohu/Merge-Public-Hosts
-update from the Blog：
+  update from the Blog：
  - http://htcui.com/4938.html
  - http://igge.gq/265.html
  - http://51.ruyo.net/2016-hosts/
@@ -36,9 +36,8 @@ update
  - nothing to do (2016-10-05~10-31)
 - add the get_hosts3.vbs and the exe changed from the vbs.
  - the hosts resources is from racaljk, vokins, DannyWu 's github.DownLoad them online.
- - well, I admit it is very rude(2017-03-10).
- - It's too slowly.So ,want to kill this.(2017-03-20)
-- add the hosts of killAD(2017-06-16)
- 
- 
- 
+ - well, I admit it is very rude (2017-03-10).
+ - It's too slowly.So ,want to kill this (2017-03-20)
+- add the hosts of killAD (2017-06-16)
+- add the get_hosts2_by_bat , because the windows10 always manslaughter vbs, and the bat can get a super authorization (2017-09-03)
+
